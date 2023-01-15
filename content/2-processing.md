@@ -1,6 +1,6 @@
 ---
-title: Get Started
-nav: Start
+title: Processing
+nav: Processing
 topics: Template; Basic Config
 ---
 
