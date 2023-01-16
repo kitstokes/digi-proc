@@ -43,6 +43,9 @@ Every scanned item needs a file name. A standardized file naming system helps us
          2. All information needed to name items should be found on the item and the folder, envelope, or box that it comes in.
          3. When in doubt about how to name an item, talk to CDIL staff.
 
+**File name examples**:
+
+Manuscript Group 190, box 4, folder 2, letter 1, with multiple pages becomes
 ### Install Jekyll
 
 Jekyll is a Gem, a software package installed via Ruby's management system called RubyGems (similar to Python's Pip). 
