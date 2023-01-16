@@ -1,7 +1,7 @@
 ---
-title: Overview
-nav: Overview
-topics: GitHub; Optional Software
+title: Scanning
+nav: Scanning
+topics: Scanning Specs; Lab Equipment
 ---
 
 To create your own materials using `workshop-template-b`, please create a free [GitHub account](https://github.com/join) if you do not have one already.
@@ -17,6 +17,8 @@ However, for more advanced uses you will want Git, Ruby, and Jekyll installed on
 2. Optional: have [Git](https://git-scm.com/), [Jekyll](https://jekyllrb.com/), and a nice [text editor](https://code.visualstudio.com/) installed.
 {% endcapture %}
 {% include card.html text=text header="Setup Overview" %}
+
+<!-- turn the above setup overview card into a "Before You Scan" card -->
 
 -------------
 
