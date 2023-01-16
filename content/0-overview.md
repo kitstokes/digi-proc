@@ -4,8 +4,7 @@ nav: Scanning
 topics: Scanning Specs; Lab Equipment
 ---
 
-To create your own materials using `workshop-template-b`, please create a free [GitHub account](https://github.com/join) if you do not have one already.
-Basic familiarity with the GitHub web interface will be helpful.
+This is a scanning guide for anyone conducting digitization work in the Center for Digital Inquiry and Learning (CDIL) lab.
 
 For a quick introduction check out GitHub's [Hello World guide](https://guides.github.com/activities/hello-world/), or the extensive [GitHub Learning Lab](https://lab.github.com/).
 
@@ -13,10 +12,12 @@ It is possible to create a website with this template using only GitHub's web in
 However, for more advanced uses you will want Git, Ruby, and Jekyll installed on your computer to do local development.
 
 {% capture text %}
-1. Have a [GitHub](https://github.com) account.
-2. Optional: have [Git](https://git-scm.com/), [Jekyll](https://jekyllrb.com/), and a nice [text editor](https://code.visualstudio.com/) installed.
+1. Ensure that hands are clean and dry before handling any materials.
+2. Wear cotton gloves when necessary (ask CDIL staff if unsure).
+3. Handle items with extreme care.
+4. Give you full attention to the scanning process.
 {% endcapture %}
-{% include card.html text=text header="Setup Overview" %}
+{% include card.html text=text header="Before You Scan" %}
 
 <!-- turn the above setup overview card into a "Before You Scan" card -->
 
