@@ -38,10 +38,10 @@ Every scanned item needs a file name. A standardized file naming system helps us
 
 **collectionabbreviation_box#_envelope/folder#-item#subitem**
 
-Notes:
-    1. Collection abbreviation refers to an abbreviated version of either Manuscript Group (mg) or Photograph Group (pg).
-    2. All information needed to name items should be found on the item and the folder, envelope, or box that it comes in.
-    3. When in doubt about how to name an item, talk to CDIL staff.
+        Notes:
+        1. Collection abbreviation refers to an abbreviated version of either Manuscript Group (mg) or Photograph Group (pg).
+         2. All information needed to name items should be found on the item and the folder, envelope, or box that it comes in.
+         3. When in doubt about how to name an item, talk to CDIL staff.
 
 ### Install Jekyll
 
