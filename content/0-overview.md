@@ -6,10 +6,13 @@ topics: Scanning Specs; Lab Equipment
 
 This is a scanning guide for anyone conducting digitization work in the Center for Digital Inquiry and Learning (CDIL) lab.
 
-For a quick introduction check out GitHub's [Hello World guide](https://guides.github.com/activities/hello-world/), or the extensive [GitHub Learning Lab](https://lab.github.com/).
+Contents:
 
-It is possible to create a website with this template using only GitHub's web interface--in fact, it works great!
-However, for more advanced uses you will want Git, Ruby, and Jekyll installed on your computer to do local development.
+1. Why do we scan?
+2. File naming
+3. Scanning images
+4. Scanning documents
+5. Lab equipment
 
 {% capture text %}
 1. Ensure that hands are clean and dry before handling any materials.
