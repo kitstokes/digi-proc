@@ -32,16 +32,15 @@ Scanning materials with a flatbed, large format, or feed scanner is often the sa
 
 Scanning items at a high resolution allows us to use them in different ways without manipulating the items themselves. For this reason, we aim for a minimum **600 dpi** image when scanning. This size specification provides a scalable file that we can then use for large or small reprints while maintaining the original details of the item.
 
-# File Naming
+## File Naming
 
 Every scanned item needs a file name. A standardized file naming system helps us know exactly where an item belongs. Name scanned files using the following standardized naming rules:
 
 **collectionabbreviation_box#_envelope/folder#-item#subitem**
 
-        Notes:
-        1. Collection abbreviation refers to an abbreviated version of either Manuscript Group (mg) or Photograph Group (pg).
-         2. All information needed to name items should be found on the item and the folder, envelope, or box that it comes in.
-         3. When in doubt about how to name an item, talk to CDIL staff.
+- Collection abbreviation refers to an abbreviated version of either Manuscript Group (mg) or Photograph Group (pg).
+- All information needed to name items should be found on the item and the folder, envelope, or box that it comes in.
+- When in doubt about how to name an item, talk to CDIL staff.
 
 **File name examples**:
 
@@ -49,7 +48,7 @@ Manuscript Group 190, box 4, folder 2, letter 1, with multiple pages becomes `mg
 
 Photograph Group 3, box 1, photograph 3 becomes `pg3_b1-003`.
 
-## Prepare to Scan:
+### Prepare Your Workstation:
 1. Go to your personal folder in the **Scans** folder on the C: drive at your workstation.
 2. If CDIL staff has not done so already, create a folder for the scanning project titled after the collection you're scanning (e.g. MG 190).
 3. Inside that folder, create another folder called **tiff**. This will be the destination for your initial scans. 
