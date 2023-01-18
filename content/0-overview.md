@@ -44,7 +44,7 @@ Every scanned item needs a file name. A standardized file naming system helps us
 
 **File name examples**:
 
-Manuscript Group 190, box 4, folder 2, letter 1, with multiple pages becomes `mg190_b4_f2-001p001; mg190_b4_f2-002p002; etc`.
+Manuscript Group 190, box 4, folder 2, letter 1, with multiple pages --> `mg190_b4_f2-001p001; mg190_b4_f2-002p002; etc`.
 
 Photograph Group 3, box 1, photograph 3 becomes `pg3_b1-003`.
 
