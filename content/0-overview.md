@@ -48,6 +48,14 @@ Manuscript Group 190, box 4, folder 2, letter 1, with multiple pages --> `mg190_
 
 Photograph Group 3, box 1, photograph 3 becomes `pg3_b1-003`.
 
+
+{% capture text %}
+1. Go to your personal folder in the **Scans** folder on the C: drive at your workstation.
+2. If CDIL staff has not done so already, create a folder for the scanning project titled after the collection you're scanning (e.g. MG 190).
+3. Inside that folder, create another folder called **tiff**. This will be the destination for your initial scans. 
+{% endcapture %}
+{% include card.html text=text header="Prepare Your Workstation" %}
+
 ## Prepare Your Workstation:
 1. Go to your personal folder in the **Scans** folder on the C: drive at your workstation.
 2. If CDIL staff has not done so already, create a folder for the scanning project titled after the collection you're scanning (e.g. MG 190).
