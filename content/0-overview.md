@@ -60,9 +60,9 @@ Photograph Group 3, box 1, photograph 3 becomes `pg3_b1-003`.
 3. Place the item along the left side of the scanning bed (the glass plate). Leave a slight border between the item and the edge of the glass. 
 4. Position the color separation guide so that the saturated bar is beside the item you're scanning. Leave a 1/8" gap between the guide and the item.
 5. Close the scanner lid and press **Preview** in EpsonScan.
-6. After the preview scan finished, use the cursor to draw the selection window around the edge of the item. Include as much of the color separation guide as needed to color balance the item:
+6. After the preview scan finishes, use the cursor to draw the selection window around the edge of the item. Include as much of the color separation guide as needed to color balance the item:
  
- * include image
+{% include figure.html img="1_preview.jpg" alt="preview scan image" caption="Preview Scan Selection" width="75%" %}
 
  7. In EpsonScan, set **Resolution** to 600 dpi and set the length of th elongest edge of the item to at least 6,000 pixels. Refer to the image below. If other settings on your screen do not match this image, ask CDIL staff before scanning:
 
@@ -79,4 +79,6 @@ Photograph Group 3, box 1, photograph 3 becomes `pg3_b1-003`.
 
  10. Press **OK** and the scan will begin.
 
- ### Scanning Documents
+ ## Scanning Documents
+
+
