@@ -62,7 +62,7 @@ Photograph Group 3, box 1, photograph 3 becomes `pg3_b1-003`.
 5. Close the scanner lid and press **Preview** in EpsonScan.
 6. After the preview scan finishes, use the cursor to draw the selection window around the edge of the item. Include as much of the color separation guide as needed to color balance the item:
  
-{% include figure.html img="1_preview.jpg" alt="preview scan image" caption="Preview Scan Selection" width="75%" %}
+{% include figure.html img="1_preview.jpeg" alt="preview scan image" caption="Preview Scan Selection" width="75%" %}
 
  7. In EpsonScan, set **Resolution** to 600 dpi and set the length of th elongest edge of the item to at least 6,000 pixels. Refer to the image below. If other settings on your screen do not match this image, ask CDIL staff before scanning:
 
