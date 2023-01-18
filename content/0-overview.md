@@ -45,14 +45,18 @@ Every scanned item needs a file name. A standardized file naming system helps us
 
 **File name examples**:
 
-Manuscript Group 190, box 4, folder 2, letter 1, with multiple pages becomes
-### Install Jekyll
+Manuscript Group 190, box 4, folder 2, letter 1, with multiple pages becomes `mg190_b4_f2-001p001; mg190_b4_f2-002p002; etc`.
 
-Jekyll is a Gem, a software package installed via Ruby's management system called RubyGems (similar to Python's Pip). 
-Open a terminal and type:
-`gem install jekyll bundler`
+Photograph Group 3, box 1, photograph 3 becomes `pg3_b1-003`.
 
-This will take a minute as Gem installs all the dependencies and builds extensions. 
+## Prepare to Scan:
+1. Go to your personal folder in the **Scans** folder on the C: drive at your workstation.
+2. If CDIL staff has not done so already, create a folder for the scanning project titled after the collection you're scanning (e.g. MG 190).
+3. Inside that folder, create another folder called **tiff**. This will be the destination for your initial scans. 
+
+## Scanning Images
+
+
 
 ### Install Text Editor
 
