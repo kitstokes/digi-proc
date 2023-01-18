@@ -26,7 +26,7 @@ Contents:
 
 -------------
 
-# Why do we scan?
+## Why do we scan?
 
 Scanning materials with a flatbed, large format, or feed scanner is often the safest and most effective way to preserve an item's information. Creating digital copies of items also allows us to make them available to patrons using the internet. 
 
@@ -48,25 +48,35 @@ Manuscript Group 190, box 4, folder 2, letter 1, with multiple pages --> `mg190_
 
 Photograph Group 3, box 1, photograph 3 becomes `pg3_b1-003`.
 
-### Prepare Your Workstation:
+## Prepare Your Workstation:
 1. Go to your personal folder in the **Scans** folder on the C: drive at your workstation.
 2. If CDIL staff has not done so already, create a folder for the scanning project titled after the collection you're scanning (e.g. MG 190).
 3. Inside that folder, create another folder called **tiff**. This will be the destination for your initial scans. 
 
 ## Scanning Images
 
+1. Turn on scanner at station. 
+2. Open EpsonScan scanning software from the shortcut on the desktop.
+3. Place the item along the left side of the scanning bed (the glass plate). Leave a slight border between the item and the edge of the glass. 
+4. Position the color separation guide so that the saturated bar is beside the item you're scanning. Leave a 1/8" gap between the guide and the item.
+5. Close the scanner lid and press **Preview** in EpsonScan.
+6. After the preview scan finished, use the cursor to draw the selection window around the edge of the item. Include as much of the color separation guide as needed to color balance the item:
+ 
+ * include image
 
+ 7. In EpsonScan, set **Resolution** to 600 dpi and set the length of th elongest edge of the item to at least 6,000 pixels. Refer to the image below. If other settings on your screen do not match this image, ask CDIL staff before scanning:
 
-### Install Text Editor
+ * include image
 
-When working with code you should have a good text editor.
-Windows notepad does not handle UTF-8 encoding or UNIX line endings that are standard for cross platform applications. 
-For basic editing, Windows [Notepad++](https://notepad-plus-plus.org/), Mac TextEdit, or Linux Gedit are sufficient.
-However, a more complete code editor will be helpful for managing Jekyll projects.
+ 8. After settings are correct, press **Scan**.
+ 9. In the **File Save Settings** window, you need to:
+ - Click **Other** and then **Browse** to select the folder you want your images to save to. This should be the folder labeled **tiff** in the main project folder.
+ - Enter the file name prefix. This should be the file name you created **minus the subitem number**, which the **Start Number** field will replace. See [File Naming]() for complete details. 
+ - **Start Number** should be set at **01** if you're starting a new project. If you're continuing a project, it should be set to the next sequential number. 
+ - Set **Image Format** file type to **TIFF (*.tif)**:
 
-Open-source cross platform suggestions:
+ * include image
 
-- [Visual Studio Code](https://code.visualstudio.com/)
-- [Atom](https://atom.io/)
+ 10. Press **OK** and the scan will begin.
 
-Tip: you can click `.` on any GitHub repository to [open the web editor](https://docs.github.com/en/codespaces/the-githubdev-web-based-editor) (which is a light version of VS Code)!
+ ### Scanning Documents
