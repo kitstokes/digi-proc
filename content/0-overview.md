@@ -32,6 +32,8 @@ Scanning materials with a flatbed, large format, or feed scanner is often the sa
 
 Scanning items at a high resolution allows us to use them in different ways without manipulating the items themselves. For this reason, we aim for a minimum **600 dpi** image when scanning. This size specification provides a scalable file that we can then use for large or small reprints while maintaining the original details of the item.
 
+---
+
 ## File Naming
 
 Every scanned item needs a file name. A standardized file naming system helps us know exactly where an item belongs. Name scanned files using the following standardized naming rules:
@@ -57,7 +59,7 @@ Photograph Group 3, box 1, photograph 3 becomes `pg3_b1-003`.
 {% endcapture %}
 {% include card.html text=text header="Prepare Your Workstation" %}
 
-## Scanning Images
+# Scanning Images
 
 1. Turn on scanner at station. 
 2. Open EpsonScan scanning software from the shortcut on the desktop.
@@ -83,6 +85,20 @@ Photograph Group 3, box 1, photograph 3 becomes `pg3_b1-003`.
 
 10. Press **OK** and the scan will begin.
 
-## Scanning Documents
+<!-- need to figure out how to get numbers to not reset to "1" after each image is included -->
 
+# Scanning Documents
+
+Document scans have different technical requirements from images. In the CDIL, we:
+
+- Scan all documents at 400 dpi.
+- Scan all documents straight to JPEG format.
+
+When conducting a documents-only scanning project, you will only need to create a **lowres jpeg** folder as the destination for your scans. Scan all documents in the project directly to this folder. 
+
+Follow all other directions for scanning an image, including the [file naming conventions]. Use the color separation guide unless working with the feed scanner. 
+
+# Lab Equipment
+
+This section is an overview of the scanning equipment we use in the CDIL. 
 
