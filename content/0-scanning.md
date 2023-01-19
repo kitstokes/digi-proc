@@ -39,6 +39,7 @@ Scanning items at a high resolution allows us to use them in different ways with
 Every scanned item needs a file name. A standardized file naming system helps us know exactly where an item belongs. Name scanned files using the following standardized naming rules:
 
 **collectionabbreviation_box#_envelope/folder#-item#subitem**
+{:.text-center}
 
 - Collection abbreviation refers to an abbreviated version of either Manuscript Group (mg) or Photograph Group (pg).
 - All information needed to name items should be found on the item and the folder, envelope, or box that it comes in.
@@ -78,7 +79,7 @@ Photograph Group 3, box 1, photograph 3 becomes `pg3_b1-003`.
 8. After settings are correct, press **Scan**.
 9. In the **File Save Settings** window, you need to:
 - Click **Other** and then **Browse** to select the folder you want your images to save to. This should be the folder labeled **tiff** in the main project folder.
-- Enter the file name prefix. This should be the file name you created **minus the subitem number**, which the **Start Number** field will replace. See [File Naming]() for complete details. 
+- Enter the file name prefix. This should be the file name you created **minus the subitem number**, which the **Start Number** field will replace. See [File Naming](#file) for complete details. 
 - **Start Number** should be set at **01** if you're starting a new project. If you're continuing a project, it should be set to the next sequential number. 
 - Set **Image Format** file type to **TIFF (*.tif)**:
 
@@ -98,7 +99,7 @@ Document scans have different technical requirements from images. In the CDIL, w
 
 When conducting a documents-only scanning project, you will only need to create a **lowres jpeg** folder as the destination for your scans. Scan all documents in the project directly to this folder. 
 
-Follow all other directions for scanning an image, including the [file naming conventions]. Use the color separation guide unless working with the feed scanner. 
+Follow all other directions for scanning an image, including the [file naming conventions](#file). Use the color separation guide unless working with the feed scanner. 
 
 {:#scanners}
 # Lab Equipment
