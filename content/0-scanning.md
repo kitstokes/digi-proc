@@ -119,3 +119,15 @@ The **Fujitsu Fi-6770** is a 24-bit color document feed scanner capable of up to
 The **Plustek OpticBook 3800** is a book edge scanner designed to eliminate spine shadows when scanning books. We use this scanner for intact books that can't be taken apart. See user manual [here](https://d3b63i9tvm4mo6.cloudfront.net/downloads/english/user_guide/OB3800l_UG_GB.pdf).
 
 The **Context Plus HD5450** is a large format feed scanner designed for large objects that won't fit on our flatbed scanners. We use protective mylar sheets with this machine when scanning fragile items. Use of this scanner may require two people. See user manual [here](https://contex.com/wp-content/uploads/2018/06/UG_HDxxxx_V1.02.pdf).
+
+
+<table class="table">
+<tbody>
+{% for s in scanners %}
+<tr>
+<td class="col-4"><img src="{{ s.image | prepend: '/images/' | relative_url }}" alt="image of {{ s.image }}" class="img-fluid"/></td>
+<td class="col-8">{{ s.text }}</td>
+</tr>
+{% endfor %}
+</tbody>
+</table>
