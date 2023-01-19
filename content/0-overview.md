@@ -22,8 +22,6 @@ Contents:
 {% endcapture %}
 {% include card.html text=text header="Before You Scan" %}
 
-<!-- turn the above setup overview card into a "Before You Scan" card -->
-
 -------------
 
 ## Why do we scan?
@@ -72,7 +70,7 @@ Photograph Group 3, box 1, photograph 3 becomes `pg3_b1-003`.
 
 7. In EpsonScan, set **Resolution** to 600 dpi and set the length of the longest edge of the item to at least 6,000 pixels. Refer to the image below. If other settings on your screen do not match this image, ask CDIL staff before scanning:
 
-{% include figure.html img="2.jpeg" alt="Scan settings" caption="Scan Settings" width="75%" %}
+{% include figure.html img="2.jpeg" alt="Scan settings" caption="Scan Settings" width="50%" %}
 
 8. After settings are correct, press **Scan**.
 9. In the **File Save Settings** window, you need to:
