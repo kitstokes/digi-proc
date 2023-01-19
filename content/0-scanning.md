@@ -110,22 +110,6 @@ Follow all other directions for scanning an image, including the [file naming co
 
 This section is an overview of the scanning equipment we use in the CDIL. 
 
-The **EPSON Expression 1640XL** is a 42-bit color scanner capable of up to 1600 x 3200 dpi hardware resolution. The scanning bed is 12.2" x 17.2". See user manual [here](https://files.support.epson.com/pdf/exp16x/exp16xu1.pdf).
-
-The **EPSON Expression 10000XL** is a 48-bit color scanner capable of up to 2400 x 4800 dpi hardware resolution. The scanning bed is 12.2" x 17.2". See user manual [here](https://files.support.epson.com/pdf/ex10kg/ex10kgu1.pdf).
-
-The **EPSON Expression 11000XL** is a 48-bit color scanner capable of up to 2400 x 4800 dpi hardware resolution. The scanning bed is 12.2" x 17.2". See user manual [here](https://files.support.epson.com/pdf/ex11kg/ex11kgug.pdf).
-
-The **EPSON Expression 12000XL** is a 48-bit color scanner capable of up to 2400 x 4800 dpi hardware resolution. The scanning bed is 12.2" x 17.2". See user manual [here](https://files.support.epson.com/docid/cpd5/cpd53120.pdf).
-
-The **Fujitsu Fi-6770** is a 24-bit color document feed scanner capable of up to 1200 dpi. This machine is able to feed and scan large stacks of paper automatically. See user manual [here](https://www.fujitsu.com/global/imagesgig5/fi-6770.pdf).
-
-The **Plustek OpticBook 3800** is a book edge scanner designed to eliminate spine shadows when scanning books. We use this scanner for intact books that can't be taken apart. See user manual [here](https://d3b63i9tvm4mo6.cloudfront.net/downloads/english/user_guide/OB3800l_UG_GB.pdf).
-
-The **Context Plus HD5450** is a large format feed scanner designed for large objects that won't fit on our flatbed scanners. We use protective mylar sheets with this machine when scanning fragile items. Use of this scanner may require two people. See user manual [here](https://contex.com/wp-content/uploads/2018/06/UG_HDxxxx_V1.02.pdf).
-
-<!-- need to make equipment.csv in _data to complete this table down here. see original site repository -->
-
 <table class="table">
 <tbody>
 {% for s in scanners %}
