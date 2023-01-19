@@ -8,11 +8,11 @@ This is a scanning guide for anyone conducting digitization work in the Center f
 
 Contents:
 
-1. [Why do we scan?] (#why)
-2. [File naming] (#file)
-3. [Scanning images] (#images)
-4. [Scanning documents] (#documents)
-5. [Lab equipment] (#scanners)
+1. [Why do we scan?](#why)
+2. [File naming](#file)
+3. [Scanning images](#images)
+4. [Scanning documents](#documents)
+5. [Lab equipment](#scanners)
 
 {% capture text %}
 1. Ensure that hands are clean and dry before handling any materials.
