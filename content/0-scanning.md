@@ -120,6 +120,7 @@ The **Plustek OpticBook 3800** is a book edge scanner designed to eliminate spin
 
 The **Context Plus HD5450** is a large format feed scanner designed for large objects that won't fit on our flatbed scanners. We use protective mylar sheets with this machine when scanning fragile items. Use of this scanner may require two people. See user manual [here](https://contex.com/wp-content/uploads/2018/06/UG_HDxxxx_V1.02.pdf).
 
+<!-- need to make equipment.csv in _data to complete this table down here. see original site repository -->
 
 <table class="table">
 <tbody>
