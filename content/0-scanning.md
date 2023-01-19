@@ -101,6 +101,10 @@ When conducting a documents-only scanning project, you will only need to create 
 
 Follow all other directions for scanning an image, including the [file naming conventions](#file). Use the color separation guide unless working with the feed scanner. 
 
+---
+
+{%- assign scanners = site.data.equipment -%}
+
 {:#scanners}
 # Lab Equipment
 
