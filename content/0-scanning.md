@@ -8,11 +8,11 @@ This is a scanning guide for anyone conducting digitization work in the Center f
 
 Contents:
 
-1. Why do we scan?
-2. File naming
-3. Scanning images
-4. Scanning documents
-5. Lab equipment
+1. Why do we scan? (#why)
+2. File naming (#file)
+3. Scanning images (#images)
+4. Scanning documents (#documents)
+5. Lab equipment (#scanners)
 
 {% capture text %}
 1. Ensure that hands are clean and dry before handling any materials.
@@ -24,6 +24,7 @@ Contents:
 
 -------------
 
+{:#why}
 ## Why do we scan?
 
 Scanning materials with a flatbed, large format, or feed scanner is often the safest and most effective way to preserve an item's information. Creating digital copies of items also allows us to make them available to patrons using the internet. 
@@ -32,6 +33,7 @@ Scanning items at a high resolution allows us to use them in different ways with
 
 ---
 
+{:#file}
 ## File Naming
 
 Every scanned item needs a file name. A standardized file naming system helps us know exactly where an item belongs. Name scanned files using the following standardized naming rules:
@@ -57,6 +59,7 @@ Photograph Group 3, box 1, photograph 3 becomes `pg3_b1-003`.
 {% endcapture %}
 {% include card.html text=text header="Prepare Your Workstation" %}
 
+{:#images}
 # Scanning Images
 
 1. Turn on scanner at station. 
@@ -85,6 +88,7 @@ Photograph Group 3, box 1, photograph 3 becomes `pg3_b1-003`.
 
 <!-- need to figure out how to get numbers to not reset to "1" after each image is included -->
 
+{:#documents}
 # Scanning Documents
 
 Document scans have different technical requirements from images. In the CDIL, we:
@@ -96,6 +100,7 @@ When conducting a documents-only scanning project, you will only need to create 
 
 Follow all other directions for scanning an image, including the [file naming conventions]. Use the color separation guide unless working with the feed scanner. 
 
+{:#scanners}
 # Lab Equipment
 
 This section is an overview of the scanning equipment we use in the CDIL. 
