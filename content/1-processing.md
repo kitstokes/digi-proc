@@ -1,12 +1,17 @@
 ---
-title: Scanning
-nav: Scanning
+title: Processing Files
+nav: Processing
 ---
 
-`workshop-template-b` is a Jekyll project to create a simple workshop website, with a [Bootstrap](https://getbootstrap.com/)-based theme, designed for hosting on [GitHub Pages](https://pages.github.com/).
+This section contains instructions on how to process files once a project is fully scanned.
 
-It works best for about 5 pages of instructions, plus index, all written in Markdown. 
-The navigation to the main pages is exposed at top and bottom of each page for easy stepping through the lessons.
+Contents:
+
+1. [Images](#images)
+2. [Documents](#documents)
+3. [Apply OCR](#ocr)
+4. [Reduce File Size](#reduce)
+5. [Create Photoshop Actions](#actions)
 
 ### Why?
 
