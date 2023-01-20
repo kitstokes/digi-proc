@@ -1,19 +1,19 @@
 ---
-title: Processing Files
-nav: Processing
+title: Process Files
+nav: Process
 ---
 
 This section contains instructions on how to process files once a project is fully scanned.
 
 Contents:
 
-1. [Images](#images)
-2. [Documents](#documents)
+1. [Process Images](#images)
+2. [Process Documents](#documents)
 3. [Apply OCR](#ocr)
 4. [Reduce File Size](#reduce)
 5. [Create Photoshop Actions](#actions)
 
-### Why?
+## Processing Images
 
 Rather than making slides for a workshop, why not make a website? 
 It's easier to write, access, share, and reuse. 
