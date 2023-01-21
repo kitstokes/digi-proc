@@ -13,13 +13,66 @@ Contents:
 4. [Reduce File Size](#reduce)
 5. [Create Photoshop Actions](#actions)
 
-## Processing Images
+## Process Images
 
-Rather than making slides for a workshop, why not make a website? 
-It's easier to write, access, share, and reuse. 
-GitHub and GitHub Pages makes this pretty easy.
+There are two main steps to processing your image sscans:
 
-It is a better [Open Educational Resource](https://en.wikipedia.org/wiki/Open_educational_resources) since anyone can make a copy and adapt!
+1. Convert files from TIFF to JPEG
+2. Crop and convert files to low resolution JPEGs
+
+**Before you begin**: Go to the folder for this scanning project. Check for two folders labeled **access jpeg** and **lowres jpeg**. Create the folders if they do not exist. 
+
+### Convert Files from TIFF to JPEG
+
+1. Open Photoshop. Go to **File** > **Automoate** > **Batch**.
+
+* insert photo
+
+2. Select the action **tiff>jpeg**. If you do not have this action on your machine, ask CDIL staff for assistance. 
+
+3. Change the settings in the **Batch** window to the following:
+
+- **Action**: select the **tiff>jpeg** action.
+- **Source**: select the **tiff** folder for the project. 
+- **Destination**: select the **access jpeg** folder for the project. 
+
+* insert photo
+
+4. Click **OK**. Wait for Photoshop to complete the action.
+
+5. Check that the files saved to the correct folder. 
+
+### Crop and Convert Files to Low Resolution JPEGS:
+
+#### Crop
+
+1. Go to the **access jpeg** folder. 
+
+2. Open the first image in Photoshop. 
+
+3. Crop out the color bar. Crop th eimage as close to the edges of the item as possible while getting rid of the entire background.
+
+4. If needed, balance images using the Levels tool in Photoshop.
+
+5. Save and close the image when finished.
+
+6. Complte steps 1-5 until all files have been cropped. Then, convert files to low resolution JPEGs.
+
+#### Convert
+
+1. In photoshop, open the **Batch** window and change the settings to the following:
+
+- **Action**: select the **lowresjpeg** action.
+- **Source**: select the **access jpeg** folder for the project.
+- **Destination**: select the **lowres jpeg** folder for the project.
+
+2. Click **OK**. Wait for Photoshop to complete the action.
+
+3. Check that the files saved to the correct folder. 
+
+## Process Documents
+
+
 
 ## GitHub Pages 
 
