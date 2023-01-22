@@ -15,7 +15,7 @@ Contents:
 
 ## Process Images
 
-There are two main steps to processing your image sscans:
+There are two main steps to processing your image scans:
 
 1. Convert files from TIFF to JPEG
 2. Crop and convert files to low resolution JPEGs
@@ -72,7 +72,35 @@ There are two main steps to processing your image sscans:
 
 ## Process Documents
 
+There are two main steps to processing your document scans:
 
+1. Convert JPEG scans to PDF using Adobe Acrobat
+2. Combine multiple PDF files to create one document
+
+### Convert JPEG scans to PDF Using Adobe Acrobat
+
+1. Open the **lowres jpeg** folder for the scanning project.
+
+2. Select the item(s) you would like to convert.
+
+3. Right-click the selected item(s). From the context menu choose one of the following:
+
+- **Convert to Adobe PDF** if converting only one file. 
+- **Combine supported files in Acrobat** if converting files that need to be combined into one (like a multi-page letter or document).
+
+* insert image
+
+4. Click **Combine** in the window that appears.
+
+5. Wait for Acrobat to open your files.
+
+6. Find **Tools** in the top-right corner of the screen. Click **Recognize Text** and then **In this file**. 
+
+* insert image
+
+7. Wait for Acrobat to complete the command. If working with a multi-page document, you will know it is finished when it ends back at the first page.
+
+8. Save the document as a PDF following the naming rules established in the [File Naming] section. 
 
 ## GitHub Pages 
 
