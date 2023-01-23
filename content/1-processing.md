@@ -11,8 +11,8 @@ Go to the folder for this scanning project. Check for two folders labeled **acce
 
 Contents:
 
-1. [Process Images](#images)
-2. [Process Documents](#documents)
+1. [Processing Images](#images)
+2. [Processing Documents](#documents)
 3. [Apply OCR](#ocr)
 4. [Reduce File Size](#reduce)
 5. [Create Photoshop Actions](#actions)
@@ -44,7 +44,7 @@ There are two main steps to processing your image scans:
 
 5. Check that the files saved to the correct folder. 
 
-### Crop and Convert Files to Low Resolution JPEGS:
+### Crop and Convert Files to Low Resolution JPEGs:
 
 #### Crop
 
