@@ -131,6 +131,9 @@ Follow these steps to extract text through OCR on one document.
 - **Output**: set to Searchable Image.
 - **Downsample To**: set to 300 dpi.
 
+
+{:#reduce}
+
 ### Batch OCR on Multiple Documents
 
 Follow these steps to extract text through OCR on multiple documents at one time.
@@ -179,6 +182,8 @@ Follow these steps to reduce the file size of many PDFs at once using Adobe Acro
 
 5. Click **OK** to begin the process.
 
+
+{:#actions}
 ## Creating Batch Actions in Photoshop
 
 Follow these steps to learn how to make the two Photoshop actions required for the CDIL digitization process.
