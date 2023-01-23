@@ -1,9 +1,11 @@
 ---
-title: Process Files
-nav: Process
+title: Processing Files
+nav: Processing
 ---
 
 This section contains instructions on how to process files once a project is fully scanned.
+
+**Before you begin**: Go to the folder for this scanning project. Check for two folders labeled **access jpeg** and **lowres jpeg**. Create the folders if they do not exist. 
 
 Contents:
 
@@ -19,8 +21,6 @@ There are two main steps to processing your image scans:
 
 1. Convert files from TIFF to JPEG
 2. Crop and convert files to low resolution JPEGs
-
-**Before you begin**: Go to the folder for this scanning project. Check for two folders labeled **access jpeg** and **lowres jpeg**. Create the folders if they do not exist. 
 
 ### Convert Files from TIFF to JPEG
 
