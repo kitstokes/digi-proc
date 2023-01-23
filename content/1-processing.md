@@ -189,6 +189,42 @@ Follow these steps to learn how to make the two Photoshop actions required for t
 Open Photoshop. Is the **Action Window** visible? Make sure by selecting the **Window** menu at the top of the screen and clicking **Actions**.{% endcapture %}
 {% include alert.html text=text color=secondary %}
 
+1. Open one of the tiff files from your scanning project in Photoshop.
+
+2. In the **Action Window**, click on the **Create New Action** button. It is a small square with a plus sign.
+
+* insert photo
+
+3. In the **New Action** window, set the name of the new action to **tiff > jpeg**.
+
+* insert photo
+
+4. Click **Record**.
+
+5. In the **File** menu, select **Save As...** Navigate to the **access jpeg** folder for your scanning project. 
+
+6. Choose **JPEG** from the **Save as** type drop down menu. Click **Save**.
+
+* insert photo
+
+7. In the **JPEG Options** window change the **Quality** value to 10 and click **OK**.
+
+* insert photo
+
+8. Select **Close** from the **File** menu or use Ctrl + W.
+
+*insert photo
+
+9. Click the square **Stop** icon in the Action Window.
+
+* insert photo
+
+### Action: access jpeg > lowres jpeg
+
+{% capture text %}**Before you begin**:
+Open Photoshop. Is the **Action Window** visible? Make sure by selecting the **Window** menu at the top of the screen and clicking **Actions**.{% endcapture %}
+{% include alert.html text=text color=secondary %}
+
 ## GitHub Pages 
 
 One amazingly useful GitHub feature is [GitHub Pages](https://guides.github.com/features/pages/).
