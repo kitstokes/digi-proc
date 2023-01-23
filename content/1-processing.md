@@ -5,7 +5,9 @@ nav: Processing
 
 This section contains instructions on how to process files once a project is fully scanned.
 
-**Before you begin**: Go to the folder for this scanning project. Check for two folders labeled **access jpeg** and **lowres jpeg**. Create the folders if they do not exist. 
+{% capture text %}**Before you begin**:
+Go to the folder for this scanning project. Check for two folders labeled **access jpeg** and **lowres jpeg**. Create the folders if they do not exist. {% endcapture %}
+{% include alert.html text=text color=secondary %}
 
 Contents:
 
