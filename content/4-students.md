@@ -1,6 +1,6 @@
 ---
-title: Student Resources
-nav: Students
+title: Community Resources
+nav: Community
 ---
 
 To learn about using `workshop-template-b`, the content pages of this demo provide documentation and examples (also check the [README](https://github.com/evanwill/workshop-template-b/blob/master/README.md)).
