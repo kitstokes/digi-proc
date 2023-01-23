@@ -106,6 +106,56 @@ There are two main steps to processing your document scans:
 
 8. Save the document as a PDF following the naming rules established in the [File Naming] section. 
 
+{:#ocr}
+## Text Recognition with Adobe Acrobat Pro DC OCR
+
+Optical Character Recognition (OCR) is a technology that recognizes text in documents and images to make them machine readable. Using Adobe Acrobat Pro DC, you can extract text through OCR on a single or multiple documents with just a few clicks. 
+
+### OCR on a Single Document
+
+1. Open a PDF in Adobe Acrobat Pro DC.
+
+2. Select **Scan & OCR** from the tool menu on the right side of the application window.
+
+* insert photo
+
+3. Select **Recognize Text** from the toolbar at the top of the screen. Choose **In This File** from the dropdown menu.
+
+* insert photo
+
+4. In the **Recognize Text** window, check that the settings are correct:
+
+- **Document Language**: language in which the document is written. Most documents you work with in the CDIL will be in English (US).
+- **Output**: set to Searchable Image.
+- **Downsample To**: set to 300 dpi.
+
+### Bath OCR on Multiple Docments
+
+1. Open Adobe Acrobat Pro DC. Click the **Tools** menu in the top-left corner.
+
+* insert photo
+
+2. Click **Scan & OCR** in the **Create & Edit** tool group.
+
+3. Click **Or recognize text in multiple files** under the blue Start button.
+
+* insert photo
+
+4. Click **Add Files...** to manualy add files or drag and drop files into the window.
+
+* insert photo
+
+5. Output options:
+
+- **Target folder**: choose to save the items to the same folder as the originals or to save them to a new folder. 
+- **File naming**: choose to keep the same file name or input a text or number string before or after the original name. 
+
+6. Click **OK**. Check the **General Settings** dialog box that opens. Set PDFs to **300 dpi** to avoid file size issues later.
+
+7. Click **OK** to start the OCR process.
+
+## Batch Reduce File Size
+
 ## GitHub Pages 
 
 One amazingly useful GitHub feature is [GitHub Pages](https://guides.github.com/features/pages/).
