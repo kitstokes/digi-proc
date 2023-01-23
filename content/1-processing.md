@@ -113,6 +113,8 @@ Optical Character Recognition (OCR) is a technology that recognizes text in docu
 
 ### OCR on a Single Document
 
+Follow these steps to extract text through OCR on one document.
+
 1. Open a PDF in Adobe Acrobat Pro DC.
 
 2. Select **Scan & OCR** from the tool menu on the right side of the application window.
@@ -129,7 +131,9 @@ Optical Character Recognition (OCR) is a technology that recognizes text in docu
 - **Output**: set to Searchable Image.
 - **Downsample To**: set to 300 dpi.
 
-### Bath OCR on Multiple Docments
+### Batch OCR on Multiple Documents
+
+Follow these steps to extract text through OCR on multiple documents at one time.
 
 1. Open Adobe Acrobat Pro DC. Click the **Tools** menu in the top-left corner.
 
@@ -141,7 +145,7 @@ Optical Character Recognition (OCR) is a technology that recognizes text in docu
 
 * insert photo
 
-4. Click **Add Files...** to manualy add files or drag and drop files into the window.
+4. Click **Add Files...** to manually add files or drag and drop files into the window.
 
 * insert photo
 
@@ -155,6 +159,35 @@ Optical Character Recognition (OCR) is a technology that recognizes text in docu
 7. Click **OK** to start the OCR process.
 
 ## Batch Reduce File Size
+
+Follow these steps to reduce the file size of many PDFs at once using Adobe Acrobat Pro DC.
+
+1. In Acrobat, open the **File** menu and select **File** > **Save As Other** > **Reduce Size PDF**.
+
+2. In the **Arrange documents** dialog box, add files by selecting **Add Files...** or drag and drop files into the window. Click **OK**.
+
+* insert image
+
+3. In the next window, choose **Retain existing** for the compatibility options and click **OK**.
+
+4. Output options:
+
+- **Target folder**: choose to save the items to the same folder as the originals or to save them to a new folder.
+- **File naming**: choose to kep the same file name or input a text or number string before or after the original name.
+
+* insert photo
+
+5. Click **OK** to begin the process.
+
+## Creating Batch Actions in Photoshop
+
+Follow these steps to learn how to make the two Photoshop actions required for the CDIL digitization process.
+
+### Action: tiff > access jpeg
+
+{% capture text %}**Before you begin**:
+Open Photoshop. Is the **Action Window** visible? Make sure by selecting the **Window** menu at the top of the screen and clicking **Actions**.{% endcapture %}
+{% include alert.html text=text color=secondary %}
 
 ## GitHub Pages 
 
