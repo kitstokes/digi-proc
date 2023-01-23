@@ -225,6 +225,40 @@ Open Photoshop. Is the **Action Window** visible? Make sure by selecting the **W
 Open Photoshop. Is the **Action Window** visible? Make sure by selecting the **Window** menu at the top of the screen and clicking **Actions**.{% endcapture %}
 {% include alert.html text=text color=secondary %}
 
+1. Open one of the **access jpeg** files from your scanning project.
+
+2. In the **Action Window**, click on the **Create New Action** button. It is a small square with a plus sign.
+
+* insert photo
+
+3. In the **New Action** window, set the name of the new action to **lowres jpeg**.
+
+* insert photo
+
+4. Press **Record**.
+
+5. In the **File** menu select **Save As...** Navigate to the **lowres jpeg** folder for your scanning project. 
+
+6. Choose **JPEG** from the **Save as** type drop down menu. Click **Save**.
+
+* insert photo
+
+7. In the **JPEG Options** window change the **Quality** value to 8 and click **OK**.
+
+* insert photo
+
+8. Select **Close** from the **File** menu or use Ctrl + W.
+
+* insert photo
+
+9. Click the square **Stop** icon in the Action Window to stop the recording.
+
+<!-- all content added!
+
+- need to go back and add images
+- look for consistency in wording and format
+- check double check triple check spelling errors -->
+
 ## GitHub Pages 
 
 One amazingly useful GitHub feature is [GitHub Pages](https://guides.github.com/features/pages/).
