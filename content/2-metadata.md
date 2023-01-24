@@ -23,6 +23,17 @@ Refer to CDIL staff if you have questions about metadata not answered in this do
 
 ---
 
+# Metadtata (Students)
+
+#### title
+
+The name of an item. Either the given title of an item or a short, descriptive set of words used to identify it. 
+
+- **Required**.
+- Use "sentence case". Only capitalize the first word of the title, unless referring to a proper noun (Dylan Fuller, Empire State Building, Logging camp on the Potlatch River, etc.).
+- For questions on how to title photographs in a series, refer to CDIL staff.
+- Example value: `Heclia Mine; Students playing baseball`
+
 
 
 {% capture text %}
