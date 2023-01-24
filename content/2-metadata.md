@@ -152,6 +152,81 @@ Choose from the following options:
 
 # Metadata (Staff)
 
+#### filename
+
+The exact filename belonging to the item. **This links the metadata to the item and must be exact**.
+
+- **Required**.
+- Identifier + extension (.jpg, .tif, .pdf, .wav, etc.)
+- Example value: `lhijf_1982b.jpg`
+
+#### source
+
+The physical source of the item.
+
+- May include the physical collection's collection number or call number.
+- Usually follows a Collection Name, Organization Name pattern.
+- Check with CDIL or Special Collections staff if unsure about the source of an item.
+- Example value: `Idaho Cities and Towns Photographs, PG 5, University of Idaho Library Special Collections and Archives`
+
+#### type
+
+Indicates what type of content the material contains. You may only enter one value in this field. If an item has more than one type of content, choose the most dominant type from the following:
+
+- Any typed or written material: `Text`
+- Photographs, negatives, etc.: `Image;StillImage`
+- Video: `Image;MovingImage`
+- Audio recording: `Sound`
+
+#### relation
+
+Indicates if there is a relationship between collections.
+
+- Not often used. The Digital Projects Manager will usually populate this field.
+
+#### digital collection
+
+The name of the digital collection to which all the material belongs.
+
+- Links viewers to the digital collection.
+- Provides a connection with the physical material.
+- Example value: `Lionel Hampton Jazz Festival Collection`
+
+#### contributing institution
+
+Indicates the institution that owns and/or contributed the material in the collection.
+
+- Only fill in this cell if there is a contributing institution other than the University of Idaho Library.
+- Example value: `Potlatch Historical Society`
+
+#### language
+
+A three-letter code that indicates the language used in the material.
+
+- Use the Library of Congress [ISO 639-2 Codes for the REpresentation of Names and Languages](https://www.loc.gov/standards/iso639-2/php/code_list.php) to identify the correct language code.
+- Multiple language codes should be separated by a semi-colon and no space.
+- Example value: `eng;fre;spa`
+
+#### rights
+
+A copyright statement indicating to researchers if permissions are required to use the material in publication and how to attribute the item if used.
+
+- Example copyright value: `Educational use includes non-commercial use of text and images in materials for teaching and research purposes. Digital reproduction rights granted by the University of Idaho Library. For other uses beyond free use, please contact the University of Idaho Library Special Collections and Archives Department.`
+- Example public domain value: `Material has passed into public domain. Digital reproduction permission has been granted by University of Idaho Library. For more information, please contact University of Idaho Library Special Collections and Archives Department.`
+
+#### rightsstatement
+
+A standardized rights statement designated in the form of a Uniform Resource Identifier (URI).
+
+- Use a [Creative Commons](https://github.com/kitstokes/digiproc/blob/main/pages/creativecommons.org) URI or a [Right Statement](Rights Statement) URI.
+- Example value: `http://rightstatements.org/vocab/NoC-US/1.0/`
+
+#### original file name
+
+Refers to the call number that designates an item's location in the University of Idaho Library or to the original file name that we may have edited to fit CDIL standards.
+
+- Not always used. Refer to CDIL staff or Special Collections staff with questions.
+
 ## Style customization [optional]
 
 The file "assets/css/styles.scss" exposes variables that can customize the basic style of website:
@@ -166,12 +241,3 @@ To use the Bootstrap defaults for *any* of these values, comment out the variabl
 
 To add your own custom CSS, use the file "_sass/_custom.scss".
 Any CSS/SASS you add to this file will override the template and Bootstrap classes.
-
-## Add Optional Analytics [optional]
-
-To use Google Analytics, add your analytics id to "_config.yml" in `google-analytics-id:` (if `google-analytics-id` is blank, the GA code will not added).
-To use an alternative analytics, paste the code snippet provided by the platform into the file "_includes/template/analytics.html".
-
-The analytics code will only be added when using "production" environment. 
-This happens automatically on GitHub Pages. 
-To build manually you need to add "JEKYLL_ENV", like: `JEKYLL_ENV=production jekyll build`.
