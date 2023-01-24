@@ -4,9 +4,13 @@ nav: Metadata
 topics: Metadata categories
 ---
 
-The [workshop-template-b repository](https://github.com/evanwill/workshop-template-b) is a template project --> to get started quickly, make a copy and replace the demo with your own content and customizations.
-This [demo site](https://evanwill.github.io/workshop-template-b/) demonstrates the output on GitHub Pages.
-The content pages serve as documentation and examples to copy from.
+This section explains the different formats and guidelines for a typical metadata spreadsheet created in the CDIL. Every scanned collection will eventually have its own metadata sheet.
+
+Metadata describes and give information about other data. The metadata we create for our digital collections records everything we know about the item. 
+
+In the CDIL we use the [Dublin Core Metadata Practices](https://en.wikipedia.org/wiki/Dublin_Core). These guidelines provide a standard for how we format and make our metadata readable for a large audience. 
+
+
 
 {% capture text %}
 1. Click the green "Use this template" button on the [workshop-template-b repository](https://github.com/evanwill/workshop-template-b) to make your own new copy of the code (make sure you are logged into GitHub!).
