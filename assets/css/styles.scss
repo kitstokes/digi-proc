@@ -1,9 +1,5 @@
----
-# front matter
----
-
-// add color at page top (optional!)
-$top-border: #424242;
+--- # front matter --- // add color at page top (optional!)
+$top-border: #F1B300;
 // set color for footer nav buttons (optional!)
 $nav-pills: #0d6efd;
 
@@ -16,6 +12,5 @@ $base-font-size: 1.1rem;
 $container-max: 750px;
 
 // Import partials.
-@import
-  "template", "custom"
+@import "template", "custom"
 ;
