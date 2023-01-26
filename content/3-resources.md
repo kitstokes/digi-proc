@@ -6,7 +6,7 @@ description:
 
 <!-- go back and look at evan's template for some links to other sites using this template to see how they might differ -->
 
-# Community Digitization Resources
+# For Community Members
 
 Information for community members or researchers conducting their own digitization work.
 
@@ -28,7 +28,7 @@ Opt for an external hard drive with 1 terabyte or greater of storage if you're c
 
 In the CDIL we have very specific technical requirements to create archival quality scans. Your process may differ depending on your needs:
 
-# Student Worker Resources
+# For Student Workers
 
 Links for students working in the CDIL:
 
