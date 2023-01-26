@@ -1,10 +1,14 @@
 ---
-title: Community Digitization Resources
-nav: Community
-description: Resources for community members or researchers conducting their own digitization work. 
+title: Digitization Resources
+nav: Resources
+description:
 ---
 
 <!-- go back and look at evan's template for some links to other sites using this template to see how they might differ -->
+
+# Community Digitization Resources
+
+Information for community members or researchers conducting their own digitization work.
 
 ## Equipment Recommendations
 
@@ -23,6 +27,22 @@ Opt for an external hard drive with 1 terabyte or greater of storage if you're c
 ## Scanning Specifications
 
 In the CDIL we have very specific technical requirements to create archival quality scans. Your process may differ depending on your needs:
+
+# Student Worker Resources
+
+Links for students working in the CDIL:
+
+#### Reference
+
+- [University of Idaho Digital Initiatives Home](https://www.lib.uidaho.edu/digital/)
+- [Center for Digital Inquiry and Learning Home](https://cdil.lib.uidaho.edu/)
+- [Getty Art & Architecture Thesaurus](https://www.getty.edu/research/tools/vocabularies/aat)
+- [Dublin Core Metadata Practices](https://en.wikipedia.org/wiki/Dublin_Core) 
+
+#### Administrative
+
+- [VandalWeb](https://vandalweb.uidaho.edu/PROD/twbkwbis.P_GenMenu?name=payroll)
+
 
 - **DPI**: DPI, or dots per inch, measures the resolution of a digital scan. We scan images at 600 dpi and documents at 400 dpi. 
 - **Pixels**: we scan all items at 6,000 pixels on the longest edge of the item.
