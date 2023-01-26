@@ -3,6 +3,8 @@ title: Processing Files
 nav: Processing
 ---
 
+<!-- need to figure out how to make numbers NOT reset after sequence is interrupted by an image -->
+
 This section contains instructions on how to process files once a project is fully scanned.
 
 {% capture text %}**Before you begin**:
