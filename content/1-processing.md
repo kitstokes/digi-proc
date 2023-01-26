@@ -29,7 +29,7 @@ There are two main steps to processing your image scans:
 
 1. Open Photoshop. Go to **File** > **Automoate** > **Batch**.
 
-* insert photo
+{% include figure.html img="processing_1.jpeg" alt="Open Batch Window" caption="Open Batch Window" width="50%" %}
 
 2. Select the action **tiff>jpeg**. If you do not have this action on your machine, ask CDIL staff for assistance. 
 
