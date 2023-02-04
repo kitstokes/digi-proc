@@ -6,11 +6,20 @@ topics: Metadata categories
 
 This section explains the different formats and guidelines for a typical metadata spreadsheet created in the CDIL. Every scanned collection will eventually have its own metadata sheet.
 
+# About Metadata
+
 Metadata describes and give information about other data. The metadata we create for our digital collections records everything we know about the item. 
 
 In the CDIL we use the [Dublin Core Metadata Practices](https://en.wikipedia.org/wiki/Dublin_Core). These guidelines provide a standard for how we format and make our metadata readable for a large audience. 
 
-Read before beginning:
+{% capture text %}
+1. Not all of the fields listed below will appear on every metadata spreadsheet. Some spreadsheets will have extra or fewer fields depending on the subject material. Each field serves a purpose for both preservation and access of an item. 
+2. Metadata field title format should be followed exactly as they are written. Titles always need to be lower-case and either one or multiple words as indicated.
+3. The metadata categories in this document are divided into two different guides: one for CDIL student workers and one for CDIL staff. **If you are a student worker**, please only fill in the metadata categories in the student worker section.
+{% endcapture %}
+{% include card.html text=text header="Important Metadata Notes: Read Before Beginning" %}
+
+**Read before beginning:**
 <!-- should this be in a card or a notification? or just like this? should each thing be numbered?-->
 
 Not all of the fields listed below will appear on every metadata spreadsheet. Some spreadsheets will have extra or fewer fields depending on the subject material. Each field serves a purpose for both preservation and access of an item. 
