@@ -14,14 +14,6 @@ This is a scanning guide for anyone conducting digitization work in the Center f
 {% endcapture %}
 {% include card.html text=text header="Before You Scan" %}
 
-
-{% capture text %}**Before you scan**:
-1. Ensure that hands are clean and dry before handling any materials.
-2. Wear cotton gloves when necessary (ask CDIL staff if unsure).
-3. Handle items with extreme care.
-4. Give your full attention to the scanning process. {% endcapture %}
-{% include alert.html text=text color=secondary %}
-
 Contents:
 
 1. [Why do we scan?](#why)
@@ -29,14 +21,6 @@ Contents:
 3. [Scanning images](#images)
 4. [Scanning documents](#documents)
 5. [Lab equipment](#scanners)
-
-{% capture text %}
-1. Ensure that hands are clean and dry before handling any materials.
-2. Wear cotton gloves when necessary (ask CDIL staff if unsure).
-3. Handle items with extreme care.
-4. Give your full attention to the scanning process.
-{% endcapture %}
-{% include card.html text=text header="Before You Scan" %}
 
 -------------
 
