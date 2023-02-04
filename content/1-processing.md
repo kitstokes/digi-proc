@@ -104,7 +104,7 @@ There are two main steps to processing your document scans:
 
 6. Find **Tools** in the top-right corner of the screen. Click **Recognize Text** and then **In this file**. 
 
-* insert image
+{% include figure.html img="processing_5.jpeg" alt="Recognize Text" caption="Recognize Text" width="50%" %}
 
 7. Wait for Acrobat to complete the command. If working with a multi-page document, you will know it is finished when it ends back at the first page.
 
