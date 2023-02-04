@@ -28,6 +28,18 @@ Opt for an external hard drive with 1 terabyte or greater of storage if you're c
 
 In the CDIL we have very specific technical requirements to create archival quality scans. Your process may differ depending on your needs:
 
+- **DPI**: DPI, or dots per inch, measures the resolution of a digital scan. We scan images at 600 dpi and documents at 400 dpi. 
+- **Pixels**: we scan all items at 6,000 pixels on the longest edge of the item.
+- **File type**: we scan all images to .tiff format and all documents to .jpeg. Visit the [Adobe website](https://www.adobe.com/creativecloud/file-types/image/comparison/jpeg-vs-tiff.html) to read more about TIFF vs JPEG files.
+
+## Processing Your Images
+
+After digitizing your items, there rae a few different things you can do to process and build your collection:
+
+- **Photoshop**: the CDIL uses Adobe Photoshop to process the digital files from our scanning projects. Visit the [Processing](https://kitstokes.github.io/digi-proc/content/1-processing.html) page for a guide to these procedures.
+- **GIMP**: if you don't have access to Photoshop, [GIMP](https://www.gimp.org/) is a free image editing software with similar functions.
+- **Metadata**: you may want to create some metadata to describe your images. Visit the [Metadata](https://kitstokes.github.io/digi-proc/content/2-metadata.html) page to see some common metadata fields the CDIL uses to describe collections. We recommend using [Google Sheets](https://docs.google.com/spreadsheets/u/0/) to create your metadata. 
+
 # For Student Workers
 
 Links for students working in the CDIL:
@@ -42,20 +54,6 @@ Links for students working in the CDIL:
 #### Administrative
 
 - [VandalWeb](https://vandalweb.uidaho.edu/PROD/twbkwbis.P_GenMenu?name=payroll)
-
-
-- **DPI**: DPI, or dots per inch, measures the resolution of a digital scan. We scan images at 600 dpi and documents at 400 dpi. 
-- **Pixels**: we scan all items at 6,000 pixels on the longest edge of the item.
-- **File type**: we scan all images to .tiff format and all documents to .jpeg. Visit the [Adobe website](https://www.adobe.com/creativecloud/file-types/image/comparison/jpeg-vs-tiff.html) to read more about TIFF vs JPEG files.
-
-## Processing Your Images
-
-After digitizing your items, there rae a few different things you can do to process and build your collection:
-
-- **Photoshop**: the CDIL uses Adobe Photoshop to process the digital files from our scanning projects. Visit the [Processing](https://kitstokes.github.io/digi-proc/content/1-processing.html) page for a guide to these procedures.
-- **GIMP**: if you don't have access to Photoshop, [GIMP](https://www.gimp.org/) is a free image editing software with similar functions.
-- **Metadata**: you may want to create some metadata to describe your images. Visit the [Metadata](https://kitstokes.github.io/digi-proc/content/2-metadata.html) page to see some common metadata fields the CDIL uses to describe collections. We recommend using [Google Sheets](https://docs.google.com/spreadsheets/u/0/) to create your metadata. 
-
 
 ## Markdown
 
