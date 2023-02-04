@@ -2,6 +2,7 @@
 title: Digitization Resources
 nav: Resources
 description: 
+topics: Equipment Recommendations; Student Links
 ---
 
 <!-- go back and look at evan's template for some links to other sites using this template to see how they might differ -->
