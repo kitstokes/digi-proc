@@ -47,9 +47,9 @@ Every scanned item needs a file name. A standardized file naming system helps us
 
 **File name examples**:
 
-Manuscript Group 190, box 4, folder 2, letter 1, with multiple pages --> `mg190_b4_f2-001p001; mg190_b4_f2-002p002; etc`.
+Manuscript Group 190, box 4, folder 2, letter 1, with multiple pages becomes: `mg190_b4_f2-001p001; mg190_b4_f2-002p002; etc`.
 
-Photograph Group 3, box 1, photograph 3 becomes `pg3_b1-003`.
+Photograph Group 3, box 1, photograph 3 becomes: `pg3_b1-003`.
 
 ---
 
@@ -63,21 +63,27 @@ Photograph Group 3, box 1, photograph 3 becomes `pg3_b1-003`.
 {:#images}
 # Scanning Images
 
-1. Turn on scanner at station. 
-2. Open EpsonScan scanning software from the shortcut on the desktop.
-3. Place the item along the left side of the scanning bed (the glass plate). Leave a slight border between the item and the edge of the glass. 
-4. Position the color separation guide so that the saturated bar is beside the item you're scanning. Leave a 1/8" gap between the guide and the item.
-5. Close the scanner lid and press **Preview** in EpsonScan.
-6. After the preview scan finishes, use the cursor to draw the selection window around the edge of the item. Include as much of the color separation guide as needed to color balance the item:
+**Step 1:** Turn on scanner at station. 
+
+**Step 2:** Open EpsonScan scanning software from the shortcut on the desktop.
+
+**Step 3:** Place the item along the left side of the scanning bed (the glass plate). Leave a slight border between the item and the edge of the glass. 
+
+**Step 4:** Position the color separation guide so that the saturated bar is beside the item you're scanning. Leave a 1/8" gap between the guide and the item.
+
+**Step 5:** Close the scanner lid and press **Preview** in EpsonScan.
+
+**Step 6:** After the preview scan finishes, use the cursor to draw the selection window around the edge of the item. Include as much of the color separation guide as needed to color balance the item:
  
 {% include figure.html img="1_preview.jpeg" alt="preview scan image" caption="Preview Scan Selection" width="75%" %}
 
-7. In EpsonScan, set **Resolution** to 600 dpi and set the length of the longest edge of the item to at least 6,000 pixels. Refer to the image below. If other settings on your screen do not match this image, ask CDIL staff before scanning:
+**Step 7:** In EpsonScan, set **Resolution** to 600 dpi and set the length of the longest edge of the item to at least 6,000 pixels. Refer to the image below. If other settings on your screen do not match this image, ask CDIL staff before scanning:
 
 {% include figure.html img="2.jpeg" alt="Scan settings" caption="Scan Settings" width="50%" %}
 
-8. After settings are correct, press **Scan**.
-9. In the **File Save Settings** window, you need to:
+**Step 8:** After settings are correct, press **Scan**.
+
+**Step 9:** In the **File Save Settings** window, you need to:
 - Click **Other** and then **Browse** to select the folder you want your images to save to. This should be the folder labeled **tiff** in the main project folder.
 - Enter the file name prefix. This should be the file name you created **minus the subitem number**, which the **Start Number** field will replace. See [File Naming](#file) for complete details. 
 - **Start Number** should be set at **01** if you're starting a new project. If you're continuing a project, it should be set to the next sequential number. 
@@ -85,7 +91,7 @@ Photograph Group 3, box 1, photograph 3 becomes `pg3_b1-003`.
 
 {% include figure.html img="3.jpeg" alt="File Save Settings" caption="File Save Settings" width="75%" %}
 
-10. Press **OK** and the scan will begin.
+**Step 10:** Press **OK** and the scan will begin.
 
 <!-- need to figure out how to get numbers to not reset to "1" after each image is included -->
 
