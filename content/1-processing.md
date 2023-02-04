@@ -151,16 +151,18 @@ Follow these steps to extract text through OCR on multiple documents at one time
 
 3. Click **Or recognize text in multiple files** under the blue Start button.
 
-* insert photo
+* insert processing_10
 
 4. Click **Add Files...** to manually add files or drag and drop files into the window.
 
-* insert photo
+* insert processing_11
 
 5. Output options:
 
 - **Target folder**: choose to save the items to the same folder as the originals or to save them to a new folder. 
 - **File naming**: choose to keep the same file name or input a text or number string before or after the original name. 
+
+* insert processing_12
 
 6. Click **OK**. Check the **General Settings** dialog box that opens. Set PDFs to **300 dpi** to avoid file size issues later.
 
@@ -172,9 +174,11 @@ Follow these steps to reduce the file size of many PDFs at once using Adobe Acro
 
 1. In Acrobat, open the **File** menu and select **File** > **Save As Other** > **Reduce Size PDF**.
 
+* insert processing_13
+
 2. In the **Arrange documents** dialog box, add files by selecting **Add Files...** or drag and drop files into the window. Click **OK**.
 
-* insert image
+* insert processing_14
 
 3. In the next window, choose **Retain existing** for the compatibility options and click **OK**.
 
@@ -183,7 +187,7 @@ Follow these steps to reduce the file size of many PDFs at once using Adobe Acro
 - **Target folder**: choose to save the items to the same folder as the originals or to save them to a new folder.
 - **File naming**: choose to kep the same file name or input a text or number string before or after the original name.
 
-* insert photo
+* insert processing_15
 
 5. Click **OK** to begin the process.
 
@@ -203,11 +207,11 @@ Open Photoshop. Is the **Action Window** visible? Make sure by selecting the **W
 
 2. In the **Action Window**, click on the **Create New Action** button. It is a small square with a plus sign.
 
-* insert photo
+* insert processing_16
 
 3. In the **New Action** window, set the name of the new action to **tiff > jpeg**.
 
-* insert photo
+* insert processing_17
 
 4. Click **Record**.
 
