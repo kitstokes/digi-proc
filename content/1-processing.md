@@ -234,29 +234,29 @@ Open Photoshop. Is the **Action Window** visible? Make sure by selecting the **W
 Open Photoshop. Is the **Action Window** visible? Make sure by selecting the **Window** menu at the top of the screen and clicking **Actions**.{% endcapture %}
 {% include alert.html text=text color=secondary %}
 
-1. Open one of the **access jpeg** files from your scanning project.
+**Step 1:** Open one of the **access jpeg** files from your scanning project.
 
-2. In the **Action Window**, click on the **Create New Action** button. It is a small square with a plus sign.
+**Step 2:** In the **Action Window**, click on the **Create New Action** button. It is a small square with a plus sign.
 
 {% include figure.html img="processing_18.jpeg" alt="Create New Action" caption="" width="50%" %}
 
-3. In the **New Action** window, set the name of the new action to **lowres jpeg**.
+**Step 3:** In the **New Action** window, set the name of the new action to **lowres jpeg**.
 
 {% include figure.html img="processing_26.jpeg" alt="Lowres JPEG Action" caption="" width="50%" %}
 
-4. Press **Record**.
+**Step 4:** Press **Record**.
 
-5. In the **File** menu select **Save As...** Navigate to the **lowres jpeg** folder for your scanning project. 
+**Step 5:** In the **File** menu select **Save As...** Navigate to the **lowres jpeg** folder for your scanning project. 
 
-6. Choose **JPEG** from the **Save as** type drop down menu. Click **Save**.
+**Step 6:** Choose **JPEG** from the **Save as** type drop down menu. Click **Save**.
 
-7. In the **JPEG Options** window change the **Quality** value to 8 and click **OK**.
+**Step 7:** In the **JPEG Options** window change the **Quality** value to 8 and click **OK**.
 
 {% include figure.html img="processing_18.jpeg" alt="Create New Action" caption="" width="50%" %}
 
-8. Select **Close** from the **File** menu or use Ctrl + W.
+**Step 8:** Select **Close** from the **File** menu or use Ctrl + W.
 
-9. Click the square **Stop** icon in the Action Window to stop the recording.
+**Step 9:** Click the square **Stop** icon in the Action Window to stop the recording.
 
 {% include figure.html img="processing_25.jpeg" alt="Stop Recording" caption="" width="50%" %}
 
