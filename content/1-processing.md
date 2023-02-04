@@ -123,11 +123,11 @@ Follow these steps to extract text through OCR on one document.
 
 2. Select **Scan & OCR** from the tool menu on the right side of the application window.
 
-* insert processing_6
+{% include figure.html img="processing_6.jpeg" alt="Scan & OCR" caption="Scan & OCR" width="50%" %}
 
 3. Select **Recognize Text** from the toolbar at the top of the screen. Choose **In This File** from the dropdown menu.
 
-* insert processing_7
+{% include figure.html img="processing_7.jpeg" alt="Recognize Text" caption="" width="50%" %}
 
 4. In the **Recognize Text** window, check that the settings are correct:
 
