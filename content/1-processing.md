@@ -41,7 +41,7 @@ There are two main steps to processing your image scans:
 - **Source**: select the **tiff** folder for the project. 
 - **Destination**: select the **access jpeg** folder for the project. 
 
-* insert photo
+{% include figure.html img="processing_2.jpeg" alt="Batch Window" caption="Batch Window" width="50%" %}
 
 4. Click **OK**. Wait for Photoshop to complete the action.
 
@@ -55,7 +55,7 @@ There are two main steps to processing your image scans:
 
 2. Open the first image in Photoshop. 
 
-3. Crop out the color bar. Crop th eimage as close to the edges of the item as possible while getting rid of the entire background.
+3. Crop out the color bar. Crop the image as close to the edges of the item as possible while getting rid of the entire background.
 
 4. If needed, balance images using the Levels tool in Photoshop.
 
