@@ -29,13 +29,13 @@ There are two main steps to processing your image scans:
 
 ### Convert Files from TIFF to JPEG
 
-1. Open Photoshop. Go to **File** > **Automoate** > **Batch**.
+**Step 1:** Open Photoshop. Go to **File** > **Automoate** > **Batch**.
 
 {% include figure.html img="processing_1.jpeg" alt="Open Batch Window" caption="Open Batch Window" width="50%" %}
 
-2. Select the action **tiff>jpeg**. If you do not have this action on your machine, ask CDIL staff for assistance. 
+**Step 2:** Select the action **tiff>jpeg**. If you do not have this action on your machine, ask CDIL staff for assistance. 
 
-3. Change the settings in the **Batch** window to the following:
+**Step 3:** Change the settings in the **Batch** window to the following:
 
 - **Action**: select the **tiff>jpeg** action.
 - **Source**: select the **tiff** folder for the project. 
@@ -43,25 +43,25 @@ There are two main steps to processing your image scans:
 
 {% include figure.html img="processing_2.jpeg" alt="Batch Window" caption="Batch Window" width="50%" %}
 
-4. Click **OK**. Wait for Photoshop to complete the action.
+**Step 4:** Click **OK**. Wait for Photoshop to complete the action.
 
-5. Check that the files saved to the correct folder. 
+**Step 5:** Check that the files saved to the correct folder. 
 
 ### Crop and Convert Files to Low Resolution JPEGs:
 
 #### Crop
 
-1. Go to the **access jpeg** folder. 
+**Step 1:** Go to the **access jpeg** folder. 
 
-2. Open the first image in Photoshop. 
+**Step 2:** Open the first image in Photoshop. 
 
-3. Crop out the color bar. Crop the image as close to the edges of the item as possible while getting rid of the entire background.
+**Step 3:** Crop out the color bar. Crop the image as close to the edges of the item as possible while getting rid of the entire background.
 
-4. If needed, balance images using the Levels tool in Photoshop.
+**Step 4:** If needed, balance images using the Levels tool in Photoshop.
 
-5. Save and close the image when finished.
+**Step 5:** Save and close the image when finished.
 
-6. Complte steps 1-5 until all files have been cropped. Then, convert files to low resolution JPEGs.
+**Step 6:** Complte steps 1-5 until all files have been cropped. Then, convert files to low resolution JPEGs.
 
 #### Convert
 
@@ -87,28 +87,28 @@ There are two main steps to processing your document scans:
 
 ### Convert JPEG scans to PDF Using Adobe Acrobat
 
-1. Open the **lowres jpeg** folder for the scanning project.
+**Step 1:** Open the **lowres jpeg** folder for the scanning project.
 
-2. Select the item(s) you would like to convert.
+**Step 2:** Select the item(s) you would like to convert.
 
-3. Right-click the selected item(s). From the context menu choose one of the following:
+**Step 3:** Right-click the selected item(s). From the context menu choose one of the following:
 
 - **Convert to Adobe PDF** if converting only one file. 
 - **Combine supported files in Acrobat** if converting files that need to be combined into one (like a multi-page letter or document).
 
 {% include figure.html img="processing_4.jpeg" alt="Convert or Combine Files" caption="Convert or Combine Files" width="75%" %}
 
-4. Click **Combine** in the window that appears.
+**Step 4:** Click **Combine** in the window that appears.
 
-5. Wait for Acrobat to open your files.
+**Step 5:** Wait for Acrobat to open your files.
 
-6. Find **Tools** in the top-right corner of the screen. Click **Recognize Text** and then **In this file**. 
+**Step 6:** Find **Tools** in the top-right corner of the screen. Click **Recognize Text** and then **In this file**. 
 
 {% include figure.html img="processing_5.jpeg" alt="Recognize Text" caption="Recognize Text" width="75%" %}
 
-7. Wait for Acrobat to complete the command. If working with a multi-page document, you will know it is finished when it ends back at the first page.
+**Step 7:** Wait for Acrobat to complete the command. If working with a multi-page document, you will know it is finished when it ends back at the first page.
 
-8. Save the document as a PDF following the naming rules established in the [File Naming] section. 
+**Step 8:** Save the document as a PDF following the naming rules established in the [File Naming] section. 
 
 {:#ocr}
 ## Text Recognition with Adobe Acrobat Pro DC OCR
@@ -119,17 +119,17 @@ Optical Character Recognition (OCR) is a technology that recognizes text in docu
 
 Follow these steps to extract text through OCR on one document.
 
-1. Open a PDF in Adobe Acrobat Pro DC.
+**Step 1:** Open a PDF in Adobe Acrobat Pro DC.
 
-2. Select **Scan & OCR** from the tool menu on the right side of the application window.
+**Step 2:** Select **Scan & OCR** from the tool menu on the right side of the application window.
 
 {% include figure.html img="processing_6.jpeg" alt="Scan & OCR" caption="Scan & OCR" width="50%" %}
 
-3. Select **Recognize Text** from the toolbar at the top of the screen. Choose **In This File** from the dropdown menu.
+**Step 3:** Select **Recognize Text** from the toolbar at the top of the screen. Choose **In This File** from the dropdown menu.
 
 {% include figure.html img="processing_7.jpeg" alt="Recognize Text" caption="" width="50%" %}
 
-4. In the **Recognize Text** window, check that the settings are correct:
+**Step 4:** In the **Recognize Text** window, check that the settings are correct:
 
 - **Document Language**: language in which the document is written. Most documents you work with in the CDIL will be in English (US).
 - **Output**: set to Searchable Image.
@@ -143,53 +143,53 @@ Follow these steps to extract text through OCR on one document.
 
 Follow these steps to extract text through OCR on multiple documents at one time.
 
-1. Open Adobe Acrobat Pro DC. Click the **Tools** menu in the top-left corner.
+**Step 1:** Open Adobe Acrobat Pro DC. Click the **Tools** menu in the top-left corner.
 
 {% include figure.html img="processing_9.jpeg" alt="Tools Menu" caption="" width="50%" %}
 
-2. Click **Scan & OCR** in the **Create & Edit** tool group.
+**Step 2:** Click **Scan & OCR** in the **Create & Edit** tool group.
 
-3. Click **Or recognize text in multiple files** under the blue Start button.
+**Step 3:** Click **Or recognize text in multiple files** under the blue Start button.
 
 {% include figure.html img="processing_10.jpeg" alt="Multiple Files" caption="" width="50%" %}
 
-4. Click **Add Files...** to manually add files or drag and drop files into the window.
+**Step 4:** Click **Add Files...** to manually add files or drag and drop files into the window.
 
 {% include figure.html img="processing_11.jpeg" alt="Add Files" caption="" width="50%" %}
 
-5. Output options:
+**Step 5:** Output options:
 
 - **Target folder**: choose to save the items to the same folder as the originals or to save them to a new folder. 
 - **File naming**: choose to keep the same file name or input a text or number string before or after the original name. 
 
 {% include figure.html img="processing_12.jpeg" alt="Output Options" caption="" width="50%" %}
 
-6. Click **OK**. Check the **General Settings** dialog box that opens. Set PDFs to **300 dpi** to avoid file size issues later.
+**Step 6:** Click **OK**. Check the **General Settings** dialog box that opens. Set PDFs to **300 dpi** to avoid file size issues later.
 
-7. Click **OK** to start the OCR process.
+**Step 7:** Click **OK** to start the OCR process.
 
 ## Batch Reduce File Size
 
 Follow these steps to reduce the file size of many PDFs at once using Adobe Acrobat Pro DC.
 
-1. In Acrobat, open the **File** menu and select **File** > **Save As Other** > **Reduce Size PDF**.
+**Step 1:** In Acrobat, open the **File** menu and select **File** > **Save As Other** > **Reduce Size PDF**.
 
 {% include figure.html img="processing_13.jpeg" alt="Reduce Size PDF" caption="" width="50%" %}
 
-2. In the **Arrange documents** dialog box, add files by selecting **Add Files...** or drag and drop files into the window. Click **OK**.
+**Step 2:** In the **Arrange documents** dialog box, add files by selecting **Add Files...** or drag and drop files into the window. Click **OK**.
 
 {% include figure.html img="processing_14.jpeg" alt="Arrange Documents" caption="" width="50%" %}
 
-3. In the next window, choose **Retain existing** for the compatibility options and click **OK**.
+**Step 3:** In the next window, choose **Retain existing** for the compatibility options and click **OK**.
 
-4. Output options:
+**Step 4:** Output options:
 
 - **Target folder**: choose to save the items to the same folder as the originals or to save them to a new folder.
 - **File naming**: choose to kep the same file name or input a text or number string before or after the original name.
 
 {% include figure.html img="processing_15.jpeg" alt="Output Options" caption="" width="50%" %}
 
-5. Click **OK** to begin the process.
+**Step 5:** Click **OK** to begin the process.
 
 
 {:#actions}
@@ -203,33 +203,33 @@ Follow these steps to learn how to make the two Photoshop actions required for t
 Open Photoshop. Is the **Action Window** visible? Make sure by selecting the **Window** menu at the top of the screen and clicking **Actions**.{% endcapture %}
 {% include alert.html text=text color=secondary %}
 
-1. Open one of the tiff files from your scanning project in Photoshop.
+**Step 1:** Open one of the tiff files from your scanning project in Photoshop.
 
-2. In the **Action Window**, click on the **Create New Action** button. It is a small square with a plus sign.
+**Step 2:** In the **Action Window**, click on the **Create New Action** button. It is a small square with a plus sign.
 
 {% include figure.html img="processing_18.jpeg" alt="Create New Action" caption="" width="75%" %}
 
-3. In the **New Action** window, set the name of the new action to **tiff > jpeg**.
+**Step 3:** In the **New Action** window, set the name of the new action to **tiff > jpeg**.
 
 {% include figure.html img="processing_20.jpeg" alt="tiff > jpeg" caption="" width="75%" %}
 
-4. Click **Record**.
+**Step 4:** Click **Record**.
 
-5. In the **File** menu, select **Save As...** Navigate to the **access jpeg** folder for your scanning project. 
+**Step 5:** In the **File** menu, select **Save As...** Navigate to the **access jpeg** folder for your scanning project. 
 
-6. Choose **JPEG** from the **Save as** type drop down menu. Click **Save**.
+**Step 6:** Choose **JPEG** from the **Save as** type drop down menu. Click **Save**.
 
 {% include figure.html img="processing_22.jpeg" alt="Save As..." caption="" width="50%" %}
 
-7. In the **JPEG Options** window change the **Quality** value to 10 and click **OK**.
+**Step 7:** In the **JPEG Options** window change the **Quality** value to 10 and click **OK**.
 
 {% include figure.html img="processing_23.jpeg" alt="JPEG Options" caption="" width="75%" %}
 
-8. Select **Close** from the **File** menu or use Ctrl + W.
+**Step 8:** Select **Close** from the **File** menu or use Ctrl + W.
 
 {% include figure.html img="processing_24.jpeg" alt="Close" caption="" width="75%" %}
 
-9. Click the square **Stop** icon in the Action Window.
+**Step 9:** Click the square **Stop** icon in the Action Window.
 
 {% include figure.html img="processing_25.jpeg" alt="Stop Action Record" caption="" width="75%" %}
 
