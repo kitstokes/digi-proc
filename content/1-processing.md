@@ -118,7 +118,7 @@ Follow these steps to extract text through OCR on one document.
 
 **Step 2:** Select **Scan & OCR** from the tool menu on the right side of the application window.
 
-{% include figure.html img="processing_6.jpeg" alt="Scan & OCR" caption="" width="50%" %}
+{% include figure.html img="processing_6.jpeg" alt="Scan & OCR" caption="" width="30%" %}
 
 **Step 3:** Select **Recognize Text** from the toolbar at the top of the screen. Choose **In This File** from the dropdown menu.
 
