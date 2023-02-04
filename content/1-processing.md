@@ -207,11 +207,11 @@ Open Photoshop. Is the **Action Window** visible? Make sure by selecting the **W
 
 2. In the **Action Window**, click on the **Create New Action** button. It is a small square with a plus sign.
 
-* insert processing_16
+* insert processing_18
 
 3. In the **New Action** window, set the name of the new action to **tiff > jpeg**.
 
-* insert processing_17
+* insert processing_20
 
 4. Click **Record**.
 
@@ -219,19 +219,19 @@ Open Photoshop. Is the **Action Window** visible? Make sure by selecting the **W
 
 6. Choose **JPEG** from the **Save as** type drop down menu. Click **Save**.
 
-* insert photo
+* insert processing_22
 
 7. In the **JPEG Options** window change the **Quality** value to 10 and click **OK**.
 
-* insert photo
+* insert processing_23
 
 8. Select **Close** from the **File** menu or use Ctrl + W.
 
-*insert photo
+* insert processing_24
 
 9. Click the square **Stop** icon in the Action Window.
 
-* insert photo
+* insert processing_25
 
 ### Action: access jpeg > lowres jpeg
 
