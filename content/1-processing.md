@@ -41,7 +41,7 @@ There are two main steps to processing your image scans:
 - **Source**: select the **tiff** folder for the project. 
 - **Destination**: select the **access jpeg** folder for the project. 
 
-{% include figure.html img="processing_2.jpeg" alt="Batch Window" caption="" width="50%" %}
+{% include figure.html img="processing_2.jpeg" alt="Batch Window" caption="" width="80%" %}
 
 **Step 4:** Click **OK**. Wait for Photoshop to complete the action.
 
@@ -57,7 +57,7 @@ There are two main steps to processing your image scans:
 
 **Step 3:** Crop out the color bar. Crop the image as close to the edges of the item as possible while getting rid of the entire background.
 
-**Step 4:** If needed, balance images using the Levels tool in Photoshop.
+**Step 4:** If needed, balance images using the **Levels** tool in Photoshop.
 
 **Step 5:** Save and close the image when finished.
 
@@ -219,8 +219,6 @@ Open Photoshop. Is the **Action Window** visible? Make sure by selecting the **W
 {% include figure.html img="processing_23.jpeg" alt="JPEG Options" caption="" width="50%" %}
 
 **Step 8:** Select **Close** from the **File** menu or use Ctrl + W.
-
-{% include figure.html img="processing_24.jpeg" alt="Close" caption="" width="50%" %}
 
 **Step 9:** Click the square **Stop** icon in the Action Window.
 
