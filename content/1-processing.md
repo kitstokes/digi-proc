@@ -31,7 +31,7 @@ There are two main steps to processing your image scans:
 
 **Step 1:** Open Photoshop. Go to **File** > **Automoate** > **Batch**.
 
-{% include figure.html img="processing_1.jpeg" alt="Open Batch Window" caption="Open Batch Window" width="50%" %}
+{% include figure.html img="processing_1.jpeg" alt="Open Batch Window" caption="" width="50%" %}
 
 **Step 2:** Select the action **tiff>jpeg**. If you do not have this action on your machine, ask CDIL staff for assistance. 
 
@@ -41,7 +41,7 @@ There are two main steps to processing your image scans:
 - **Source**: select the **tiff** folder for the project. 
 - **Destination**: select the **access jpeg** folder for the project. 
 
-{% include figure.html img="processing_2.jpeg" alt="Batch Window" caption="Batch Window" width="50%" %}
+{% include figure.html img="processing_2.jpeg" alt="Batch Window" caption="" width="50%" %}
 
 **Step 4:** Click **OK**. Wait for Photoshop to complete the action.
 
@@ -71,7 +71,7 @@ There are two main steps to processing your image scans:
 - **Source**: select the **access jpeg** folder for the project.
 - **Destination**: select the **lowres jpeg** folder for the project.
 
-{% include figure.html img="processing_3.jpeg" alt="Batch Window" caption="Batch Window" width="75%" %}
+{% include figure.html img="processing_3.jpeg" alt="Batch Window" caption="" width="75%" %}
 
 **Step 2:** Click **OK**. Wait for Photoshop to complete the action.
 
@@ -91,7 +91,7 @@ There are two main steps to processing your image scans:
 - **Convert to Adobe PDF** if converting only one file. 
 - **Combine supported files in Acrobat** if converting files that need to be combined into one (like a multi-page letter or document).
 
-{% include figure.html img="processing_4.jpeg" alt="Convert or Combine Files" caption="Convert or Combine Files" width="75%" %}
+{% include figure.html img="processing_4.jpeg" alt="Convert or Combine Files" caption="" width="75%" %}
 
 **Step 4:** Click **Combine** in the window that appears.
 
@@ -99,7 +99,7 @@ There are two main steps to processing your image scans:
 
 **Step 6:** Find **Tools** in the top-right corner of the screen. Click **Recognize Text** and then **In this file**. 
 
-{% include figure.html img="processing_5.jpeg" alt="Recognize Text" caption="Recognize Text" width="75%" %}
+{% include figure.html img="processing_5.jpeg" alt="Recognize Text" caption="" width="75%" %}
 
 **Step 7:** Wait for Acrobat to complete the command. If working with a multi-page document, you will know it is finished when it ends back at the first page.
 
@@ -118,7 +118,7 @@ Follow these steps to extract text through OCR on one document.
 
 **Step 2:** Select **Scan & OCR** from the tool menu on the right side of the application window.
 
-{% include figure.html img="processing_6.jpeg" alt="Scan & OCR" caption="Scan & OCR" width="50%" %}
+{% include figure.html img="processing_6.jpeg" alt="Scan & OCR" caption="" width="50%" %}
 
 **Step 3:** Select **Recognize Text** from the toolbar at the top of the screen. Choose **In This File** from the dropdown menu.
 
@@ -202,11 +202,11 @@ Open Photoshop. Is the **Action Window** visible? Make sure by selecting the **W
 
 **Step 2:** In the **Action Window**, click on the **Create New Action** button. It is a small square with a plus sign.
 
-{% include figure.html img="processing_18.jpeg" alt="Create New Action" caption="" width="75%" %}
+{% include figure.html img="processing_18.jpeg" alt="Create New Action" caption="" width="50%" %}
 
 **Step 3:** In the **New Action** window, set the name of the new action to **tiff > jpeg**.
 
-{% include figure.html img="processing_20.jpeg" alt="tiff > jpeg" caption="" width="75%" %}
+{% include figure.html img="processing_20.jpeg" alt="tiff > jpeg" caption="" width="50%" %}
 
 **Step 4:** Click **Record**.
 
@@ -218,11 +218,11 @@ Open Photoshop. Is the **Action Window** visible? Make sure by selecting the **W
 
 **Step 7:** In the **JPEG Options** window change the **Quality** value to 10 and click **OK**.
 
-{% include figure.html img="processing_23.jpeg" alt="JPEG Options" caption="" width="75%" %}
+{% include figure.html img="processing_23.jpeg" alt="JPEG Options" caption="" width="50%" %}
 
 **Step 8:** Select **Close** from the **File** menu or use Ctrl + W.
 
-{% include figure.html img="processing_24.jpeg" alt="Close" caption="" width="75%" %}
+{% include figure.html img="processing_24.jpeg" alt="Close" caption="" width="50%" %}
 
 **Step 9:** Click the square **Stop** icon in the Action Window.
 
