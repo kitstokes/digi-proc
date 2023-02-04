@@ -162,7 +162,7 @@ Follow these steps to extract text through OCR on multiple documents at one time
 - **Target folder**: choose to save the items to the same folder as the originals or to save them to a new folder. 
 - **File naming**: choose to keep the same file name or input a text or number string before or after the original name. 
 
-* insert processing_12
+{% include figure.html img="processing_12.jpeg" alt="Output Options" caption="" width="50%" %}
 
 6. Click **OK**. Check the **General Settings** dialog box that opens. Set PDFs to **300 dpi** to avoid file size issues later.
 
@@ -174,11 +174,11 @@ Follow these steps to reduce the file size of many PDFs at once using Adobe Acro
 
 1. In Acrobat, open the **File** menu and select **File** > **Save As Other** > **Reduce Size PDF**.
 
-* insert processing_13
+{% include figure.html img="processing_13.jpeg" alt="Reduce Size PDF" caption="" width="50%" %}
 
 2. In the **Arrange documents** dialog box, add files by selecting **Add Files...** or drag and drop files into the window. Click **OK**.
 
-* insert processing_14
+{% include figure.html img="processing_14.jpeg" alt="Arrange Documents" caption="" width="50%" %}
 
 3. In the next window, choose **Retain existing** for the compatibility options and click **OK**.
 
@@ -187,7 +187,7 @@ Follow these steps to reduce the file size of many PDFs at once using Adobe Acro
 - **Target folder**: choose to save the items to the same folder as the originals or to save them to a new folder.
 - **File naming**: choose to kep the same file name or input a text or number string before or after the original name.
 
-* insert processing_15
+{% include figure.html img="processing_15.jpeg" alt="Output Options" caption="" width="50%" %}
 
 5. Click **OK** to begin the process.
 
