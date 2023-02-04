@@ -214,8 +214,6 @@ Open Photoshop. Is the **Action Window** visible? Make sure by selecting the **W
 
 **Step 6:** Choose **JPEG** from the **Save as** type drop down menu. Click **Save**.
 
-{% include figure.html img="processing_22.jpeg" alt="Save As..." caption="" width="50%" %}
-
 **Step 7:** In the **JPEG Options** window change the **Quality** value to 10 and click **OK**.
 
 {% include figure.html img="processing_23.jpeg" alt="JPEG Options" caption="" width="50%" %}
