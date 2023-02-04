@@ -82,9 +82,10 @@ There are two main steps to processing your image scans:
 
 There are two main steps to processing your document scans:
 
-1. Convert JPEG scans to PDF using Adobe Acrobat
-2. Combine multiple PDF files to create one document
+1. [Convert JPEG scans to PDF using Adobe Acrobat](#convert)
+2. [Combine multiple PDF files to create one document](#combine)
 
+{:convert}
 ### Convert JPEG scans to PDF Using Adobe Acrobat
 
 **Step 1:** Open the **lowres jpeg** folder for the scanning project.
