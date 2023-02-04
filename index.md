@@ -5,7 +5,7 @@ layout: default
 
 # Digitization Procedures
 
-{% include figure.html img="uidaho-workshop.jpg" alt="intro image here" caption="Library workshop" width="75%" %}
+{% include figure.html img="cdil_home.jpeg" alt="intro image here" caption="Library workshop" width="75%" %}
 
 An (unofficial) guide to scanning and metadata creation for the preservation of archival materials.
 
