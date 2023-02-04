@@ -75,11 +75,11 @@ Photograph Group 3, box 1, photograph 3 becomes: `pg3_b1-003`.
 
 **Step 6:** After the preview scan finishes, use the cursor to draw the selection window around the edge of the item. Include as much of the color separation guide as needed to color balance the item:
  
-{% include figure.html img="1_preview.jpeg" alt="preview scan image" caption="Preview Scan Selection" width="75%" %}
+{% include figure.html img="1_preview.jpeg" alt="preview scan image" caption="" width="75%" %}
 
 **Step 7:** In EpsonScan, set **Resolution** to 600 dpi and set the length of the longest edge of the item to at least 6,000 pixels. Refer to the image below. If other settings on your screen do not match this image, ask CDIL staff before scanning:
 
-{% include figure.html img="2.jpeg" alt="Scan settings" caption="Scan Settings" width="50%" %}
+{% include figure.html img="2.jpeg" alt="Scan settings" caption="" width="50%" %}
 
 **Step 8:** After settings are correct, press **Scan**.
 
@@ -89,7 +89,7 @@ Photograph Group 3, box 1, photograph 3 becomes: `pg3_b1-003`.
 - **Start Number** should be set at **01** if you're starting a new project. If you're continuing a project, it should be set to the next sequential number. 
 - Set **Image Format** file type to **TIFF (*.tif)**:
 
-{% include figure.html img="3.jpeg" alt="File Save Settings" caption="File Save Settings" width="75%" %}
+{% include figure.html img="3.jpeg" alt="File Save Settings" caption="" width="75%" %}
 
 **Step 10:** Press **OK** and the scan will begin.
 
