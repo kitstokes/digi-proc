@@ -207,11 +207,11 @@ Open Photoshop. Is the **Action Window** visible? Make sure by selecting the **W
 
 2. In the **Action Window**, click on the **Create New Action** button. It is a small square with a plus sign.
 
-* insert processing_18
+{% include figure.html img="processing_18.jpeg" alt="Create New Action" caption="" width="75%" %}
 
 3. In the **New Action** window, set the name of the new action to **tiff > jpeg**.
 
-* insert processing_20
+{% include figure.html img="processing_20.jpeg" alt="tiff > jpeg" caption="" width="75%" %}
 
 4. Click **Record**.
 
@@ -219,19 +219,19 @@ Open Photoshop. Is the **Action Window** visible? Make sure by selecting the **W
 
 6. Choose **JPEG** from the **Save as** type drop down menu. Click **Save**.
 
-* insert processing_22
+{% include figure.html img="processing_22.jpeg" alt="Save As..." caption="" width="50%" %}
 
 7. In the **JPEG Options** window change the **Quality** value to 10 and click **OK**.
 
-* insert processing_23
+{% include figure.html img="processing_23.jpeg" alt="JPEG Options" caption="" width="75%" %}
 
 8. Select **Close** from the **File** menu or use Ctrl + W.
 
-* insert processing_24
+{% include figure.html img="processing_24.jpeg" alt="Close" caption="" width="75%" %}
 
 9. Click the square **Stop** icon in the Action Window.
 
-* insert processing_25
+{% include figure.html img="processing_25.jpeg" alt="Stop Action Record" caption="" width="75%" %}
 
 ### Action: access jpeg > lowres jpeg
 
