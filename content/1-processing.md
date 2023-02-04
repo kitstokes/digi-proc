@@ -135,6 +135,7 @@ Follow these steps to extract text through OCR on one document.
 - **Output**: set to Searchable Image.
 - **Downsample To**: set to 300 dpi.
 
+{% include figure.html img="processing_8.jpeg" alt="Recognize Text Settings" caption="Recognize Text Settings" width="50%" %}
 
 {:#reduce}
 
@@ -144,7 +145,7 @@ Follow these steps to extract text through OCR on multiple documents at one time
 
 1. Open Adobe Acrobat Pro DC. Click the **Tools** menu in the top-left corner.
 
-* insert photo
+* insert processing_9
 
 2. Click **Scan & OCR** in the **Create & Edit** tool group.
 
