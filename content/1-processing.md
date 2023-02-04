@@ -226,7 +226,7 @@ Open Photoshop. Is the **Action Window** visible? Make sure by selecting the **W
 
 **Step 9:** Click the square **Stop** icon in the Action Window.
 
-{% include figure.html img="processing_25.jpeg" alt="Stop Action Record" caption="" width="75%" %}
+{% include figure.html img="processing_25.jpeg" alt="Stop Action Record" caption="" width="50%" %}
 
 ### Action: access jpeg > lowres jpeg
 
