@@ -19,32 +19,11 @@ In the CDIL we use the [Dublin Core Metadata Practices](https://en.wikipedia.org
 {% endcapture %}
 {% include card.html text=text header="Important Metadata Notes: Read Before Beginning" %}
 
-**Read before beginning:**
-<!-- should this be in a card or a notification? or just like this? should each thing be numbered?-->
-
-Not all of the fields listed below will appear on every metadata spreadsheet. Some spreadsheets will have extra or fewer fields depending on the subject material. Each field serves a purpose for both preservation and access of an item. 
-
-Metadata field title format should be followed exactly as they are written. Titles always need to be lower-case and either one or multiple words as indicated.
-
-The metadata categories in this document are divided into two different guides: one for CDIL student workers and one for CDIL staff. **If you are a student worker**, please only fill in the metadata categories in the student worker section.
-
 Refer to CDIL staff if you have questions about metadata not answered in this document. 
 
-
-<!-- card code:
-
-{% capture text %}
-1. Click the green "Use this template" button on the [workshop-template-b repository](https://github.com/evanwill/workshop-template-b) to make your own new copy of the code (make sure you are logged into GitHub!).
-2. Work on the GitHub web interface or clone to your local machine to edit files (tip: click `.` on any GitHub repository to [open the web editor](https://docs.github.com/en/codespaces/the-githubdev-web-based-editor)).
-3. Edit the `_config.yml` with your info.
-4. Edit/add the content pages in Markdown (found in the "content" folder).
-5. Add any images to the "images" folder.
-5. Push to GitHub or commit on the web interface.
-6. In your repository's settings, activate GitHub Pages, using main branch.{% endcapture %}
-{% include card.html header="Overview" text=text %} -->
 ---
 
-# Metadtata (Students)
+# Metadata (Students)
 
 #### title
 
