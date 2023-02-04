@@ -65,7 +65,7 @@ There are two main steps to processing your image scans:
 
 #### Convert
 
-1. In photoshop, open the **Batch** window and change the settings to the following:
+**Step 1:** In photoshop, open the **Batch** window and change the settings to the following:
 
 - **Action**: select the **lowresjpeg** action.
 - **Source**: select the **access jpeg** folder for the project.
@@ -73,7 +73,7 @@ There are two main steps to processing your image scans:
 
 {% include figure.html img="processing_3.jpeg" alt="Batch Window" caption="Batch Window" width="75%" %}
 
-2. Click **OK**. Wait for Photoshop to complete the action.
+**Step 2**: Click **OK**. Wait for Photoshop to complete the action.
 
 3. Check that the files saved to the correct folder. 
 
