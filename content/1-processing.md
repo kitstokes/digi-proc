@@ -96,7 +96,7 @@ There are two main steps to processing your document scans:
 - **Convert to Adobe PDF** if converting only one file. 
 - **Combine supported files in Acrobat** if converting files that need to be combined into one (like a multi-page letter or document).
 
-{% include figure.html img="processing_4.jpeg" alt="Convert or Combine Files" caption="Convert or Combine Files" width="50%" %}
+{% include figure.html img="processing_4.jpeg" alt="Convert or Combine Files" caption="Convert or Combine Files" width="75%" %}
 
 4. Click **Combine** in the window that appears.
 
