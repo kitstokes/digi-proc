@@ -1,5 +1,5 @@
 ---
-title: Scanning
+title: Scanning Procedures
 nav: Scanning
 topics: Scanning Specs; Lab Equipment
 ---
