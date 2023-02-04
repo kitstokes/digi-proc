@@ -130,7 +130,7 @@ Follow these steps to extract text through OCR on one document.
 - **Output**: set to Searchable Image.
 - **Downsample To**: set to 300 dpi.
 
-{% include figure.html img="processing_8.jpeg" alt="Recognize Text Settings" caption="Recognize Text Settings" width="75%" %}
+{% include figure.html img="processing_8.jpeg" alt="Recognize Text Settings" caption="" width="75%" %}
 
 {:#reduce}
 
