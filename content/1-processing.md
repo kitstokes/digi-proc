@@ -71,7 +71,7 @@ There are two main steps to processing your image scans:
 - **Source**: select the **access jpeg** folder for the project.
 - **Destination**: select the **lowres jpeg** folder for the project.
 
-{% include figure.html img="processing_3.jpeg" alt="Batch Window" caption="" width="75%" %}
+{% include figure.html img="processing_3.jpeg" alt="Batch Window" caption="" width="80%" %}
 
 **Step 2:** Click **OK**. Wait for Photoshop to complete the action.
 
@@ -91,7 +91,7 @@ There are two main steps to processing your image scans:
 - **Convert to Adobe PDF** if converting only one file. 
 - **Combine supported files in Acrobat** if converting files that need to be combined into one (like a multi-page letter or document).
 
-{% include figure.html img="processing_4.jpeg" alt="Convert or Combine Files" caption="" width="75%" %}
+{% include figure.html img="processing_4.jpeg" alt="Convert or Combine Files" caption="" width="50%" %}
 
 **Step 4:** Click **Combine** in the window that appears.
 
