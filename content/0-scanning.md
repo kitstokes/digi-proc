@@ -31,8 +31,6 @@ Scanning materials with a flatbed, large format, or feed scanner is often the sa
 
 Scanning items at a high resolution allows us to use them in different ways without manipulating the items themselves. For this reason, we aim for a minimum **600 dpi** image when scanning. This size specification provides a scalable file that we can then use for large or small reprints while maintaining the original details of the item.
 
----
-
 {:#file}
 ## File Naming
 
