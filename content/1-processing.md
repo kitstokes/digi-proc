@@ -71,6 +71,8 @@ There are two main steps to processing your image scans:
 - **Source**: select the **access jpeg** folder for the project.
 - **Destination**: select the **lowres jpeg** folder for the project.
 
+{% include figure.html img="processing_3.jpeg" alt="Batch Window" caption="Batch Window" width="50%" %}
+
 2. Click **OK**. Wait for Photoshop to complete the action.
 
 3. Check that the files saved to the correct folder. 
