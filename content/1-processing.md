@@ -1,6 +1,7 @@
 ---
 title: Processing Files
 nav: Processing
+topics: Processing Images and Docs; Text Recognition; Actions
 ---
 
 <!-- need to figure out how to make numbers NOT reset after sequence is interrupted by an image -->
