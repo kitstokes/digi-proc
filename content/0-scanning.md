@@ -6,6 +6,13 @@ topics: Scanning Specs; Lab Equipment
 
 This is a scanning guide for anyone conducting digitization work in the Center for Digital Inquiry and Learning (CDIL) lab.
 
+{% capture text %}**Before you begin**:
+1. Ensure that hands are clean and dry before handling any materials.
+2. Wear cotton gloves when necessary (ask CDIL staff if unsure).
+3. Handle items with extreme care.
+4. Give your full attention to the scanning process. {% endcapture %}
+{% include alert.html text=text color=secondary %}
+
 Contents:
 
 1. [Why do we scan?](#why)
@@ -18,7 +25,7 @@ Contents:
 1. Ensure that hands are clean and dry before handling any materials.
 2. Wear cotton gloves when necessary (ask CDIL staff if unsure).
 3. Handle items with extreme care.
-4. Give you full attention to the scanning process.
+4. Give your full attention to the scanning process.
 {% endcapture %}
 {% include card.html text=text header="Before You Scan" %}
 
