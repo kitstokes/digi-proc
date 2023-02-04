@@ -238,11 +238,11 @@ Open Photoshop. Is the **Action Window** visible? Make sure by selecting the **W
 
 2. In the **Action Window**, click on the **Create New Action** button. It is a small square with a plus sign.
 
-* insert photo
+{% include figure.html img="processing_18.jpeg" alt="Create New Action" caption="" width="50%" %}
 
 3. In the **New Action** window, set the name of the new action to **lowres jpeg**.
 
-* insert photo
+{% include figure.html img="processing_26.jpeg" alt="Lowres JPEG Action" caption="" width="50%" %}
 
 4. Press **Record**.
 
@@ -250,17 +250,15 @@ Open Photoshop. Is the **Action Window** visible? Make sure by selecting the **W
 
 6. Choose **JPEG** from the **Save as** type drop down menu. Click **Save**.
 
-* insert photo
-
 7. In the **JPEG Options** window change the **Quality** value to 8 and click **OK**.
 
-* insert photo
+{% include figure.html img="processing_18.jpeg" alt="Create New Action" caption="" width="50%" %}
 
 8. Select **Close** from the **File** menu or use Ctrl + W.
 
-* insert photo
-
 9. Click the square **Stop** icon in the Action Window to stop the recording.
+
+{% include figure.html img="processing_25.jpeg" alt="Stop Recording" caption="" width="50%" %}
 
 <!-- all content added!
 
