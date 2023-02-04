@@ -260,9 +260,7 @@ Open Photoshop. Is the **Action Window** visible? Make sure by selecting the **W
 
 {% include figure.html img="processing_25.jpeg" alt="Stop Recording" caption="" width="50%" %}
 
-<!-- all content added!
 
-- need to go back and add images
-    - get photos from CDIL site and save into individual folders. rename files for each section. organize to make inclusion easy
+<!-- all content added!
 - look for consistency in wording and format
 - check double check triple check spelling errors -->
