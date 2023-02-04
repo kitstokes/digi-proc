@@ -73,9 +73,9 @@ There are two main steps to processing your image scans:
 
 {% include figure.html img="processing_3.jpeg" alt="Batch Window" caption="Batch Window" width="75%" %}
 
-**Step 2**: Click **OK**. Wait for Photoshop to complete the action.
+**Step 2:** Click **OK**. Wait for Photoshop to complete the action.
 
-3. Check that the files saved to the correct folder. 
+**Step 3:** Check that the files saved to the correct folder. 
 
 {:#documents}
 ## Process Documents
