@@ -20,7 +20,7 @@ Contents:
 5. [Create Photoshop Actions](#actions)
 
 {:#images}
-## Process Images
+# Processing Images
 
 There are two main steps to processing your image scans:
 
@@ -78,14 +78,8 @@ There are two main steps to processing your image scans:
 **Step 3:** Check that the files saved to the correct folder. 
 
 {:#documents}
-## Process Documents
+# Processing Documents
 
-There are two main steps to processing your document scans:
-
-1. [Convert JPEG scans to PDF using Adobe Acrobat](#convert)
-2. [Combine multiple PDF files to create one document](#combine)
-
-{:convert}
 ### Convert JPEG scans to PDF Using Adobe Acrobat
 
 **Step 1:** Open the **lowres jpeg** folder for the scanning project.
