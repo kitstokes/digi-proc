@@ -93,8 +93,6 @@ Photograph Group 3, box 1, photograph 3 becomes: `pg3_b1-003`.
 
 **Step 10:** Press **OK** and the scan will begin.
 
-<!-- need to figure out how to get numbers to not reset to "1" after each image is included -->
-
 {:#documents}
 # Scanning Documents
 
@@ -107,7 +105,7 @@ When conducting a documents-only scanning project, you will only need to create 
 
 Follow all other directions for scanning an image, including the [file naming conventions](#file). Use the color separation guide unless working with the feed scanner. 
 
----
+
 
 {%- assign scanners = site.data.equipment -%}
 
