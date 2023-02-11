@@ -107,9 +107,9 @@ Follow all other directions for scanning an image, including the [file naming co
 {:#scanners}
 # Lab Equipment
 
-{%- assign scanners = site.data.equipment -%}
-
 This section is an overview of the scanning equipment we use in the CDIL. 
+
+{%- assign scanners = site.data.equipment -%}
 
 <table class="table">
 <tbody>
