@@ -11,7 +11,7 @@ An (unofficial) guide to scanning and metadata creation for the preservation of 
 
 ## Overview
 
-The University of Idaho Library houses thousands of primary research sources; most of them are held in Special Collections and Archives. Digital Initiatives and the Center for Digital Inquiry and Learning (CDIL) lab are at the forefront of making these sources digitally accessible to patron. Our digitization efforts allow researchers around the world to access these materials while keeping originals intact, preserved, and available for local use.
+The University of Idaho Library houses thousands of primary research sources; most of them are held in Special Collections and Archives. Digital Initiatives and the Center for Digital Inquiry and Learning (CDIL) lab are at the forefront of making these sources digitally accessible to patrons. Our digitization efforts allow researchers around the world to access these materials while keeping originals intact, preserved, and available for local use.
 
 The materials we digitize in the CDIL are not allowed to leave the library due to their condition, their value, or a combination of the two factors. Materials like photographs, first-edition copies of books, and other one-of-a-kind items are irreplaceable if damaged or lost. So, Digital Initiatives and the CDIL are dedicated to providing access to these materials through digital means. The images we create, the information we publish, and the resources we design are all compiled with the intent of making Special Collections and Archives materials more broadly accessible. 
 
