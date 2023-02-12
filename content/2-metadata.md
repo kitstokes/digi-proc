@@ -8,6 +8,8 @@ This section explains the different formats and guidelines for a typical metadat
 
 # About Metadata
 
+---
+
 Metadata describes and give information about other data. The metadata we create for our digital collections records everything we know about the item. 
 
 In the CDIL we use the [Dublin Core Metadata Practices](https://en.wikipedia.org/wiki/Dublin_Core). These guidelines provide a standard for how we format and make our metadata readable for a large audience. 
