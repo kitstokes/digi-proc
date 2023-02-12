@@ -21,6 +21,8 @@ Contents:
 {:#images}
 # Processing Images
 
+---
+
 There are two main steps to processing your image scans:
 
 1. Convert files from TIFF to JPEG
@@ -79,13 +81,15 @@ There are two main steps to processing your image scans:
 {:#documents}
 # Processing Documents
 
+---
+
 ### Convert JPEG scans to PDF Using Adobe Acrobat
 
 **Step 1:** Open the **lowres jpeg** folder for the scanning project.
 
 **Step 2:** Select the item(s) you would like to convert.
 
-**Step 3:** Right-click the selected item(s). From the context menu choose one of the following:
+**Step 3:** Right-click the selected item(s). Choose one of the following from the context menu:
 
 - **Convert to Adobe PDF** if converting only one file. 
 - **Combine supported files in Acrobat** if converting files that need to be combined into one (like a multi-page letter or document).
@@ -102,12 +106,12 @@ There are two main steps to processing your image scans:
 
 **Step 7:** Wait for Acrobat to complete the command. If working with a multi-page document, you will know it is finished when it ends back at the first page.
 
-**Step 8:** Save the document as a PDF following the naming rules established in the [File Naming] section. 
+**Step 8:** Save the document as a PDF following the naming rules established in the [Scanning](https://kitstokes.github.io/digi-proc/content/0-scanning.html) section. 
 
 {:#ocr}
 ## Text Recognition with Adobe Acrobat Pro DC OCR
 
-Optical Character Recognition (OCR) is a technology that recognizes text in documents and images to make them machine readable. Using Adobe Acrobat Pro DC, you can extract text through OCR on a single or multiple documents with just a few clicks. 
+Optical Character Recognition (OCR) is a technology that recognizes text in documents and images to make them machine readable. Using Adobe Acrobat Pro DC, you can extract text through OCR on single or multiple documents with just a few clicks. 
 
 ### OCR on a Single Document
 
@@ -126,8 +130,8 @@ Follow these steps to extract text through OCR on one document.
 **Step 4:** In the **Recognize Text** window, check that the settings are correct:
 
 - **Document Language**: language in which the document is written. Most documents you work with in the CDIL will be in English (US).
-- **Output**: set to Searchable Image.
-- **Downsample To**: set to 300 dpi.
+- **Output**: set to **Searchable Image**.
+- **Downsample To**: set to **300 dpi**.
 
 {% include figure.html img="processing_8.jpeg" alt="Recognize Text Settings" caption="" width="75%" %}
 
