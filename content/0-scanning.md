@@ -101,11 +101,11 @@ Document scans have different technical requirements from images. In the CDIL, w
 
 When conducting a documents-only scanning project, you will only need to create a **lowres jpeg** folder as the destination for your scans. Scan all documents in the project directly to this folder. 
 
-Follow all other directions for scanning an image, including the [file naming conventions](#file). Use the color separation guide unless working with the feed scanner. 
-
+Follow all other directions for scanning an image, including the [file naming conventions](#file). Use the color separation guide unless working with the feed scanner.
 
 {%- assign scanners = site.data.equipment -%}
 
+<!-- i don't know how but this comment fixes the problem i was having with the scanners tag appearing in the paragraph above the assign. -->
 {:#scanners}
 # Lab Equipment
 
