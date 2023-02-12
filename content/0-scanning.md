@@ -61,6 +61,8 @@ Photograph Group 3, box 1, photograph 3 becomes: `pg3_b1-003`.
 {:#images}
 # Scanning Images
 
+---
+
 **Step 1:** Turn on scanner at station. 
 
 **Step 2:** Open EpsonScan scanning software from the shortcut on the desktop.
@@ -93,6 +95,8 @@ Photograph Group 3, box 1, photograph 3 becomes: `pg3_b1-003`.
 
 {:#documents}
 # Scanning Documents
+
+---
 
 Document scans have different technical requirements from images. In the CDIL, we:
 
