@@ -60,11 +60,11 @@ There are two main steps to processing your image scans:
 
 **Step 5:** Save and close the image when finished.
 
-**Step 6:** Complte steps 1-5 until all files have been cropped. Then, convert files to low resolution JPEGs.
+**Step 6:** Complete steps 1-5 until all files have been cropped. Then, convert files to low resolution JPEGs.
 
 #### Convert
 
-**Step 1:** In photoshop, open the **Batch** window and change the settings to the following:
+**Step 1:** In Photoshop, open the **Batch** window and change the settings to the following:
 
 - **Action**: select the **lowresjpeg** action.
 - **Source**: select the **access jpeg** folder for the project.
