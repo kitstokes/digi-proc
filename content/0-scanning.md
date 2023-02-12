@@ -105,7 +105,7 @@ Follow all other directions for scanning an image, including the [file naming co
 
 
 {%- assign scanners = site.data.equipment -%}
-<!-- wtfffff -->
+
 {:#scanners}
 {:#scanners}
 # Lab Equipment
