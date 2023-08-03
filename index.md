@@ -5,7 +5,7 @@ layout: default
 
 # Digitization Procedures
 
-An (unofficial) guide to scanning and metadata creation for the preservation of archival materials.
+A guide to scanning and metadata creation for the preservation of archival materials.
 
 {% include figure.html img="cdil_home.jpeg" alt="intro image here" caption="" width="75%" %}
 
