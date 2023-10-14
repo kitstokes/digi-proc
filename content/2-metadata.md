@@ -56,6 +56,7 @@ Subjects allow researchers searching for one thing in particular to narrow colle
 - Use the [Getty Art and Architecture Thesaurus](https://www.getty.edu/research/tools/vocabularies/aat) to locate subject terms. 
 - Adhere to the controlled vocabulary list if the collection has one.
 - Example values: `children;parades;automobiles;cows (mammals);farming (function);Return to Riverside Festival;`
+  
 #### creator
 
 The individual or entity that created the item.
