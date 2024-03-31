@@ -217,18 +217,3 @@ A standardized rights statement designated in the form of a Uniform Resource Ide
 Refers to the call number that designates an item's location in the University of Idaho Library or to the original file name that we may have edited to fit CDIL standards.
 
 - Not always used. Refer to CDIL staff or Special Collections staff with questions.
-
-## Style customization [optional]
-
-The file "assets/css/styles.scss" exposes variables that can customize the basic style of website:
-
-- `$top-border` adds a tiny splash of color on the header and footer borders. Try tweaking the color using an [HTML # value](https://www.w3schools.com/colors/colors_picker.asp).
-- `$text-color` sets the body text color
-- `$link-color` sets link color
-- `$base-font-size` sets the body text size
-- `$container-max` sets a maximum width for the text body--keeping it narrow can make it easier to read, but gives less screen space!
-
-To use the Bootstrap defaults for *any* of these values, comment out the variable in "styles.scss", using `//` in front of the option's line (e.g. `// $text-color: #111 !default;` ).
-
-To add your own custom CSS, use the file "_sass/_custom.scss".
-Any CSS/SASS you add to this file will override the template and Bootstrap classes.
